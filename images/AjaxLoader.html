@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+
+	<title>Creative Instruct</title>
+	
+	<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="http://www.creativeinstruct.com/wp-content/themes/ci/css/styles.css"/>
+	<script src="http://www.creativeinstruct.com/wp-content/themes/ci/bower_components/jquery/dist/jquery.js"></script>
+	<script src="http://www.creativeinstruct.com/wp-content/themes/ci/js/scripts.js"></script>
+	<script src="http://www.creativeinstruct.com/wp-content/themes/ci/js/freebie_slider.js"></script>
+    		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.creativeinstruct.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.7"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ssbaFont-css'  href='//fonts.googleapis.com/css?family=Indie+Flower&#038;ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://www.creativeinstruct.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.creativeinstruct.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.creativeinstruct.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='http://www.creativeinstruct.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.creativeinstruct.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.creativeinstruct.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.7" />
+<style type="text/css"></style>    <link rel="icon" type="image/png" href="http://www.creativeinstruct.com/wp-content/themes/ci/images/ci-logo-fav.png"/>
+    <script type="text/javascript">
+        var template_url = 'http://www.creativeinstruct.com/wp-content/themes/ci/';
+    </script>
+</head>
+<body >
+<svg style='display:none'>
+<symbol id='logo' viewbox="0 0 200 90.621">
+	<path d="M5.829,40.079c0,0-3.543,6.002-4.367,5.541c-0.825-0.462,2.554-6.695,2.554-6.695s5.192-6.926,5.934-6.541
+		C10.69,32.768,5.829,40.079,5.829,40.079 M1.069,52.488c0,0,1.545-2.886,2.163-3.175c0.618-0.289,1.607-0.52,2.103-0.924
+		c0.495-0.405,1.421-3.06,1.421-3.06s2.04-4.789,3.522-7.213c1.484-2.424,6.614-9.407,6.614-9.407s5.129-5.599,9.085-7.042
+		s8.281-2.77,10.197-2.77c1.916,0,6.861,0.751,10.137,2.828c3.275,2.078,5.563,4.443,5.563,4.443s2.783,3.81,3.401,5.253
+		c0.237,0.556,0.575,1.743,0.902,2.995c0.819,0.167,1.678,0.405,2.571,0.717c-0.376-1.519-0.873-3.218-1.435-4.346
+		c-1.234-2.481-4.079-6.175-4.079-6.175s-1.298-2.482-6.057-4.906c-4.76-2.424-10.818-2.424-10.818-2.424s-5.809,0.462-11,2.771
+		c-5.192,2.308-9.828,7.907-9.828,7.907s-4.882,7.157-6.428,9.522c-1.545,2.367-3.77,7.215-3.77,7.215s-0.989,2.137-1.484,2.54
+		c-0.494,0.405-2.039,0.749-2.657,1.212C0.882,48.679,0.403,49.636,0,50.531c0.048,1.457,0.14,2.872,0.286,4.234L1.069,52.488z
+		 M23.011,40.193c1.421-2.309,3.152-4.674,4.08-5.425c0.927-0.75,4.285-3.154,5.521-2.924c1.237,0.23,1.071,1.231,2.143,1.078
+		c1.072-0.155,1.206-1.328,1.978-1.385c0.771-0.059,1.751-0.04,2.884,0.384c1.132,0.423,2.771,1.02,4.286,1.847
+		c1.513,0.826,2.636,1.741,3.048,2.309c0.006,0.007,0.016,0.02,0.021,0.028c0.525-0.401,1.101-0.75,1.725-1.042
+		c-0.034-0.046-0.061-0.096-0.097-0.141c-0.741-0.963-2.029-2.136-3.131-2.849c-1.103-0.711-2.904-1.683-4.369-2.308
+		c-1.462-0.625-2.554-1.001-5.028-0.923c-2.47,0.077-7.538,2.461-9.558,3.848c-2.019,1.385-4.121,3-7.953,11.022
+		c-3.832,8.023-2.287,11.486-1.544,16.161c0.741,4.675,1.544,9.928,4.449,13.968c2.905,4.039,11.496,9.926,11.496,9.926
+		s6.186,4.006,13.754,6.853c1.842-0.024,3.666-0.116,5.458-0.266c-5.401-1.825-10.25-4.797-10.25-4.797s-8.898-4.561-13.782-9.235
+		c-4.882-4.674-7.107-10.446-7.912-13.909c-0.802-3.462-1.235-6.232-0.556-11.485C20.354,45.677,21.59,42.502,23.011,40.193
+		 M67.801,56.009c-0.412,2.308-0.989,3.54-2.472,5.078c-1.483,1.538-6.923,3.387-6.923,3.387s-5.027,1.46-8.735,1.23
+		c-3.708-0.23-6.429-1.539-6.429-1.539s-4.367-3.925-4.779-3.386c-0.411,0.539,4.284,4.463,4.284,4.463s2.638,1.693,6.594,2.155
+		c3.956,0.462,9.889-0.925,9.889-0.925s5.274-1.769,7.582-3.692s2.967-4.849,3.13-6.157c0.131-1.027,0.259-3.622,0.148-6.218
+		c-0.68,0.25-1.387,0.523-2.131,0.813C68.136,53.265,68.094,54.366,67.801,56.009 M53.67,34.114
+		c-0.542-1.659-0.992-2.809-0.992-2.809s-1.669-3.81-5.563-6.579c-3.894-2.771-7.851-3.463-7.851-3.463s-4.511-0.229-9.703,1.154
+		c-5.192,1.386-9.642,5.079-11.249,7.043c-1.606,1.961-4.881,6.924-6.057,9.118c-1.175,2.193-4.944,10.621-4.944,10.621
+		S4.283,56.47,4.469,61.433c0.185,4.965,1.173,7.851,2.348,10.158c1.175,2.311,4.018,6.465,7.911,10.043
+		c0.293,0.27,0.566,0.521,0.83,0.765c3.188,2.222,6.711,3.934,10.427,5.2c-1.107-0.728-2.16-1.454-3.097-2.156
+		c-5.935-4.444-12.239-13.62-12.239-13.62s-3.894-7.503-3.337-13.621c0.557-6.117,4.326-13.391,4.326-13.391
+		s3.461-7.387,6.429-11.542c2.966-4.156,7.788-7.329,9.147-7.965c1.36-0.635,5.872-2.482,10.012-2.309
+		c4.142,0.174,3.462,0.289,5.564,1.039c2.101,0.75,5.315,4.329,4.202,4.501c-1.112,0.174-1.854-1.615-4.079-2.655
+		c-2.225-1.039-5.997-0.924-8.655-0.46c-2.656,0.46-4.696,1.154-6.488,2.02c-1.793,0.866-3.771,2.252-6.12,4.674
+		c-2.347,2.424-3.956,5.194-5.191,7.503c-1.236,2.309-2.41,5.829-2.967,8.081c-0.556,2.251-0.68,4.732-0.741,7.618
+		c-0.062,2.886,0.741,7.272,0.741,7.272l0.866,6.116c0,0-2.04-3.808-2.596-6.578c-0.555-2.772-0.927-5.252-0.741-6.466
+		c0.186-1.211,1.297-6.231,0.741-6.462c-0.555-0.231-1.978,4.501-2.226,6.348c-0.247,1.847-0.123,4.155,0.248,6.926
+		c0.372,2.771,2.596,7.157,2.596,7.157s4.204,6.868,6.676,9.118c2.473,2.251,12.114,9.12,12.114,9.12s0.709,0.681,1.702,1.558
+		c1.051,0.207,2.109,0.388,3.172,0.539c-1.179-0.738-2.152-1.448-1.969-1.692c0.431-0.578,5.995,1.847,5.995,1.847
+		s0.272,0.131,0.682,0.336c1.031,0.072,2.06,0.119,3.087,0.146c-1.374-0.763-2.766-1.419-3.646-1.81
+		c-2.35-1.038-7.665-2.887-7.665-2.887s-6.49-3.692-10.879-8.772c-4.388-5.077-5.809-11.079-5.809-11.079s-1.668-9.813-0.865-15.469
+		c0.804-5.657,4.45-12.122,4.45-12.122s2.163-4.385,8.282-7.849c6.118-3.461,7.665-3.404,9.641-3.346
+		c1.979,0.057,10.136,2.251,12.486,4.848c0.583,0.646,1.082,1.37,1.509,2.143C52.073,34.138,52.848,34.087,53.67,34.114
+		 M62.567,57.74c-1.195,1.961-6.552,3.232-6.552,3.232s-7.498,1.577-10.876-0.231s-5.11-3.349-6.181-4.965
+		c-1.071-1.616-2.308-4.847-2.473-7.04c-0.165-2.194-0.246-2.656-0.246-3.694s0.823-3.501,0.246-4.156s-1.895,2.116-2.226,3.232
+		c-0.327,1.116,0.249,4.271,0.249,4.271s0.577,5.85,2.35,8.541c1.771,2.693,7.169,5.195,7.169,5.195s6.964,2.578,12.362,1.269
+		c5.397-1.309,7.664-4.386,7.664-4.386s1.359-2,1.483-6.811c0-0.02,0-0.039,0-0.059c-0.603,0.222-1.23,0.443-1.887,0.662
+		C63.571,54.259,63.329,56.488,62.567,57.74 M75.381,61.24c0,0-0.081,3.233-4.451,7.389c-4.367,4.154-12.854,4.54-12.854,4.54
+		s-7.666,0-14.504-4.232c-6.84-4.233-9.395-10.929-9.395-10.929s-2.472-7.848-1.483-13.388c0.988-5.542,1.072-5.695,1.977-6.927
+		c0.906-1.23,4.039-3,3.296-3.387c-0.742-0.384-3.79,1.54-4.78,2.925c-0.988,1.384-1.564,2.231-2.637,7.542
+		c-1.071,5.309,1.319,14.159,1.319,14.159s5.274,9.62,10.136,12.544c4.863,2.923,16.07,3.771,16.07,3.771s10.96-0.309,14.999-4.31
+		c4.037-4.002,4.367-6.464,4.943-8.773c0.459-1.83,1.016-7.872,0.9-12.407c-0.917-0.356-1.799-0.545-2.672-0.601
+		C76.373,53.947,75.381,61.24,75.381,61.24 M70.604,78.709c0,0-4.203,2.693-12.857,2.156c-8.653-0.54-11.125-1.771-11.125-1.771
+		s-6.099-2.771-6.512-2.231c-0.411,0.538,5.111,3.77,5.111,3.77s4.778,2.232,12.36,2.308c7.582,0.077,13.764-2.538,13.764-2.538
+		s4.449-2.077,4.037-2.54C74.97,77.401,70.604,78.709,70.604,78.709 M60.713,2.602c0,0-0.82-0.49-2.235-1.232
+		c-2.117-0.456-4.334-0.812-6.622-1.046c4.322,1.999,7.538,3.972,7.538,3.972s12.033,6.926,17.308,13.391
+		c0.828,1.014,1.814,2.224,2.881,3.533c0.152-1.087,0.181-2.184,0.099-3.274c-0.465-0.577-0.915-1.132-1.331-1.645
+		C72.58,9.22,60.713,2.602,60.713,2.602 M45.559,0c-2.263-0.001-4.555,0.126-6.848,0.395C45.402,1.327,52.39,4.676,55.77,6.913
+		c3.955,2.616,10.052,9.233,10.052,9.233l8.738,9.388c0,0,1.005,1.16,2.414,2.855c0.336-0.559,0.643-1.134,0.925-1.724
+		c-1.11-1.333-1.857-2.208-1.857-2.208l-8.075-8.927L56.922,5.218C56.922,5.218,51.73,2.141,45.559,0 M65.987,9.835
+		c-0.165,0.924,2.968,4.157,2.968,4.157l9.424,11.59c0.259-0.633,0.492-1.274,0.681-1.928l-8.456-10.431
+		C70.604,13.223,66.152,8.912,65.987,9.835 M80.823,71.553c2.884-4.309,1.4-14.16,1.4-14.16s-1.4-5.387-1.978-5.387
+		c-0.577,0,0,5.617,0,5.617s0.329,10.698-2.556,13.236c-2.885,2.541-11.208,5.464-11.208,5.464s-9.642,1.771-17.801-0.231
+		c-8.159-1.999-12.854-6.464-12.854-6.464s-5.357-6.156-6.594-10.388c-1.236-4.233-1.565-9.215-1.236-11.389
+		c0.329-2.176,1.813-6.445,2.307-7.081c0.496-0.635,1.813-2.693,1.319-3.078c-0.495-0.385-1.401,0.867-2.473,2.462
+		c-1.071,1.596-2.328,5.252-2.72,7.002c-0.391,1.752-1.071,4.773,0.824,12.159c1.896,7.387,5.934,11.851,5.934,11.851
+		s2.883,4.31,14.917,6.695c12.031,2.385,19.449,0.31,19.449,0.31S77.938,75.863,80.823,71.553 M30.882,4.449
+		c10.134-0.462,16.399,1.924,19.941,3.847C54.368,10.22,58.819,14.144,65,22.302c3.364,4.44,5.549,8.779,6.848,11.821
+		c0.603-0.451,1.19-0.942,1.751-1.481c-1.331-2.931-3.377-6.869-6.624-11.416C61.208,13.145,54.451,8.296,52.144,6.912
+		c-2.31-1.385-9.396-5.156-21.221-4.348c-1.261,0.086-2.521,0.281-3.771,0.551c-4.4,1.627-8.578,3.952-12.281,7.118
+		C19.357,7.595,25.45,4.696,30.882,4.449 M84.703,53.809c-0.753-0.726-1.463-1.341-2.146-1.878c0.272,0.801,0.57,1.688,0.9,2.692
+		c2.308,7.002,1.484,12.005,1.484,12.005s-1.152,6.079-6.18,10.389c-5.027,4.31-9.561,6.079-9.561,6.079s-4.368,1.693-13.102,1.846
+		c-8.736,0.155-15.905-4.77-15.905-4.77s-5.851-3.54-10.137-9.08c-4.285-5.541-5.439-11.775-5.439-11.775s-1.896-6.311-0.33-12.157
+		c1.566-5.85,3.543-7.926,3.543-7.926l3.131-3.541c0,0,2.226-2.462,1.649-2.925c-0.578-0.461-3.131,1.924-3.131,1.924
+		s-5.274,5.001-6.594,9.312c-1.318,4.31-1.071,10.772-1.071,10.772s-0.413,6.311,2.554,12.468
+		c2.967,6.155,10.465,12.003,10.465,12.003s6.346,4.695,12.033,6.464c5.686,1.771,16.646,0.309,16.646,0.309s9.56-1.77,13.68-4.848
+		c4.121-3.079,6.016-3.54,8.653-8.312c2.638-4.771,1.978-9.617,1.978-9.617l-2.491-8.808C85.124,54.221,84.912,54.011,84.703,53.809
+		 M1.379,55.932c0,0-0.304,0.809-0.628,2.114c0.419,2.433,0.993,4.706,1.717,6.818c-0.005-0.182-0.018-0.362-0.018-0.545
+		c0-3.309,0.907-8.08,0.907-8.08s0.989-5.31,0.494-5.541C3.356,50.468,1.379,55.932,1.379,55.932 M23.794,9.99
+		c7.5-3.078,16.976-1.231,16.976-1.231s9.806,3,11.043,2.539c1.236-0.462-10.547-4.077-10.547-4.077S33.93,4.68,23.217,8.604
+		c-7.262,2.661-11.525,5.493-13.523,7.044c-1.223,1.565-2.354,3.267-3.382,5.112c1.752-1.305,3.307-2.537,3.307-2.537
+		S16.294,13.067,23.794,9.99 M69.532,21.687c-0.66,0.23,2.471,5.001,2.471,5.001s1.359,2.183,2.746,4.74
+		c0.289-0.329,0.568-0.668,0.838-1.017l-2.017-4.108C73.569,26.303,70.19,21.456,69.532,21.687 M8.136,23.379
+		c3.461-3.231,14.009-8.618,14.009-8.618s8.983-3.54,17.636-2.462c8.653,1.077,10.301,1.769,12.197,2.77
+		c1.894,1,6.427,4.463,7.582,6.926c1.152,2.464,1.812,5.079,1.812,5.079l3.668,9.747c0.702-0.035,1.405-0.151,2.106-0.339
+		c-0.78-1.988-2.036-5.145-2.478-6.022c-0.659-1.308-3.214-5.617-2.638-5.694c0.577-0.077,4.122,5.232,4.122,5.232
+		s1.755,3.017,2.778,5.847c0.53-0.235,1.054-0.503,1.569-0.813c-1.248-3.033-3.525-7.314-7.808-12.729
+		c-5.358-6.771-9.891-8.927-9.891-8.927s-5.604-1.846-12.855-2.924c-7.251-1.076-15.741,1.617-18.461,2.771
+		c-2.719,1.153-10.63,6.156-14.667,9.233c-0.736,0.562-1.55,1.293-2.387,2.112c-0.593,1.368-1.136,2.803-1.622,4.309
+		C4.672,26.855,6.69,24.729,8.136,23.379 M4.263,31.305c0.907-1.308,7.829-7.156,7.334-7.772c-0.495-0.616-7.912,6.08-8.819,7.234
+		c-0.176,0.225-0.462,0.592-0.815,1.048c-0.297,1.15-0.568,2.333-0.803,3.558C2.476,33.646,3.811,31.958,4.263,31.305 M48.846,15.838
+		c0,0-9.725-2.771-16.688-1.962c-6.963,0.808-11.908,4.194-13.721,5.425c-1.813,1.23-9.023,9.464-9.023,9.464
+		s-5.398,5.002-6.799,7.041c-0.504,0.736-1.303,2.202-2.119,3.774c-0.193,1.561-0.335,3.178-0.428,4.852l0.158-0.429
+		c0,0,1.647-5.232,3.296-7.235c1.649-2.001,7.417-6.31,7.417-6.31s6.18-7.771,8.734-9.388c2.555-1.616,7.912-4.849,12.856-5.541
+		c4.944-0.693,11.949,0.692,15.493,2.309c3.544,1.616,8.323,6.464,10.054,9.85c0.898,1.758,2.063,5.341,2.976,8.38
+		c0.688,0.32,1.396,0.534,2.115,0.654c-0.72-2.692-1.843-6.339-3.443-10.035C56.594,19.455,48.846,15.838,48.846,15.838
+		 M71.923,7.989c2.564,2.205,5.122,4.917,7.337,7.459c-0.64-2.408-1.959-4.719-4.168-6.733c-2.055-1.874-5.098-3.613-8.791-5.039
+		C67.945,4.807,69.917,6.266,71.923,7.989 M89.557,62.241c0,0,0.88,4.429-0.289,8.393c2.297-4.913,1.31-8.962-0.693-12.196
+		C89.13,60.548,89.557,62.241,89.557,62.241 M42.747,44.081c0,0-0.606,0.077-0.824,0.462c-0.214,0.384-0.07,0.875,0.166,1.077
+		c0.188,0.16,0.483,0.118,0.812,0.132c-0.037-0.558-0.034-1.12,0.006-1.68C42.813,44.077,42.747,44.081,42.747,44.081 M70.108,62.472
+		c-2.555,4.232-7.747,5.08-7.747,5.08s-5.027,1.152-6.923,1.23c-1.894,0.077-6.096-0.308-6.425,0.308
+		c-0.332,0.616,3.955,1.388,5.932,1.848c1.978,0.46,6.1-0.154,8.241-0.615c2.144-0.463,6.512-1.078,9.231-6.618
+		c2.719-5.543,2.143-14.16,2.143-14.16s-0.03-0.121-0.082-0.332c-0.704,0.086-1.418,0.243-2.155,0.453
+		C72.653,52.05,72.501,58.509,70.108,62.472 M54.286,55.374c0.291,0.297,0.913-0.087,1.528-0.622
+		c-0.347,0.057-0.69,0.115-1.048,0.166c-0.208,0.029-0.408,0.05-0.609,0.07C54.156,55.145,54.191,55.277,54.286,55.374 M41.43,47.236
+		c-0.617,0.576,2.411,3.749,3.215,4.269c0.147,0.095,0.37,0.228,0.624,0.365c-1.025-1.208-1.719-2.669-2.085-4.231
+		C42.39,47.256,41.668,47.013,41.43,47.236 M54.533,57.45c-3.648,0.867-4.203,0.751-5.687,0.347
+		c-1.484-0.403-5.067-2.423-5.067-2.423l5.5,0.98c0,0,3.956,0.057,3.832-0.635c-0.123-0.691-3.769-0.691-3.769-0.691
+		s-2.164-0.059-4.327-0.868c-2.164-0.808-2.967-1.73-2.967-1.73s-1.917-2.251-2.102-3.348c-0.185-1.098-0.247-4.675,0.742-6.06
+		c0.613-0.86,1.726-0.874,2.482-0.762c0.15-0.67,0.358-1.328,0.623-1.96c-1.344-0.525-3.351-1.064-4.65-0.28
+		c-2.102,1.27-1.112,6.464-1.112,6.464s0.308,3.866,1.358,6.35c1.052,2.482,5.069,5.945,6.429,6.405
+		c1.36,0.462,3.832,1.213,8.839,0.462c5.005-0.749,6.921-3.231,7.354-4.731c0.142-0.494,0.21-1.113,0.238-1.722
+		c-0.85,0.259-1.747,0.508-2.698,0.741l-0.012,0.056C59.539,54.045,58.179,56.585,54.533,57.45 M40.11,35.384
+		c0,0-1.02,0.069-1.565,0.462c-0.546,0.395-1.072,1.231-1.072,1.231S37,37.491,36.649,37.616c-0.35,0.125-0.979,0.164-1.236,0.231
+		c-0.259,0.067-0.555,0.51-0.33,0.924c0.228,0.412,0.764,0.451,1.237,0.46c0.473,0.01,1.731-0.384,1.731-0.384
+		s0.792-0.395,1.73-0.462c0.937-0.067,2.339-0.047,2.965,0c0.464,0.035,1.029,0.291,1.706,0.592c0.325-0.554,0.698-1.081,1.122-1.565
+		c-0.951-0.46-2.662-1.211-3.239-1.489C41.615,35.577,40.11,35.384,40.11,35.384 M79.667,81.576c-0.959,0.62-1.648,1.059-1.648,1.059
+		s-7.252,3.924-10.629,4.616c-3.38,0.693-9.065,1.308-11.54,1.077c-2.471-0.23-4.202-1-5.602-0.691
+		c-1.401,0.308,3.131,2.077,5.11,2.385c0.004,0.001,0.008,0.001,0.012,0.002c10.184-1.268,18.998-4.368,23.419-7.753
+		C79.094,82.036,79.375,81.807,79.667,81.576"/>
+	<path class='text' d="M106.404,23.127c1.71,0,5.101,0.7,5.101,3.111v1.457h-2.466V26.91c0-1.009-1.597-1.457-2.635-1.457
+		c-2.774,0-4.847,2.073-4.847,5.072c0,3.223,2.354,5.043,4.988,5.043c2.661,0,4.399-1.96,4.399-1.96l1.176,1.933
+		c0,0-2.018,2.438-5.772,2.438c-4.455,0-7.565-3.167-7.565-7.426C98.783,26.377,101.837,23.127,106.404,23.127 M115.092,37.642h2.719
+		v-5.801c0-0.868,0.084-1.738,0.336-2.55c0.645-2.101,2.242-3.334,3.98-3.334c0.447,0,0.812,0.084,0.812,0.084v-2.689
+		c0,0-0.364-0.056-0.729-0.056c-2.186,0-3.812,1.625-4.483,3.699h-0.057c0,0,0.057-0.42,0.057-0.98v-0.896
+		c0-1.15-0.589-1.654-1.822-1.654h-2.577v2.325h1.148c0.393,0,0.616,0.197,0.616,0.618V37.642z M131.121,23.126
+		c-4.035,0-7.117,2.915-7.117,7.427c0,4.203,3.054,7.426,7.537,7.426c3.363,0,5.464-2.075,5.464-2.075l-1.176-1.933
+		c0,0-1.71,1.654-4.147,1.654c-2.521,0-4.708-1.708-4.877-4.736h10.342c0,0,0.084-0.757,0.084-1.121
+		C137.23,26.097,135.101,23.126,131.121,23.126 M126.918,28.899c0.42-2.354,2.101-3.614,4.175-3.614c1.766,0,3.251,1.26,3.335,3.614
+		H126.918z M148.047,28.815c-2.383,0-8.547,0.28-8.547,4.848c0,2.83,2.382,4.315,4.82,4.315c3.391,0,4.512-2.803,4.512-2.803h0.056
+		c0,0-0.056,0.365-0.056,0.841c0,1.009,0.503,1.625,1.765,1.625h2.551v-2.325h-1.149c-0.392,0-0.617-0.197-0.617-0.618v-6.024
+		c0-3.14-1.232-5.549-5.828-5.549c-1.373,0-4.904,0.337-4.904,2.662v1.401h2.551v-0.812c0-0.925,1.652-1.093,2.325-1.093
+		c2.214,0,3.139,0.896,3.139,3.391v0.14H148.047 M144.908,35.793c-1.793,0-2.662-1.122-2.662-2.27c0-2.606,3.699-2.718,5.745-2.718
+		h0.7v0.477C148.691,33.383,147.206,35.793,144.908,35.793 M156.201,32.458c0,4.736,3.615,5.296,5.408,5.296
+		c0.589,0,0.953-0.057,0.953-0.057v-2.409c0,0-0.253,0.056-0.645,0.056c-1.037,0-2.998-0.364-2.998-3.195v-6.501h3.39v-2.186h-3.39
+		v-3.895h-2.663v3.895h-1.905v2.186h1.85V32.458z M166.094,35.849c0,1.261,0.531,1.793,1.793,1.793h2.662v-2.325h-1.149
+		c-0.392,0-0.615-0.197-0.615-0.618v-9.443c0-1.261-0.533-1.793-1.794-1.793h-2.663v2.325h1.149c0.393,0,0.617,0.197,0.617,0.618
+		V35.849z M166.149,20.689h2.438v-2.83h-2.438V20.689z M177.022,37.643h3.139l4.315-11.292c0.169-0.421,0.447-0.562,0.924-0.562
+		h0.281v-2.325h-1.317c-1.233,0-1.738,0.308-2.158,1.428l-3.025,8.155c-0.281,0.785-0.505,1.851-0.505,1.851h-0.057
+		c0,0-0.224-1.065-0.504-1.851l-3.055-8.155c-0.421-1.12-0.896-1.428-2.157-1.428h-1.4v2.325h0.278c0.449,0,0.701,0.141,0.87,0.562
+		L177.022,37.643z M193.893,23.126c-4.036,0-7.118,2.915-7.118,7.427c0,4.203,3.054,7.426,7.537,7.426
+		c3.363,0,5.465-2.075,5.465-2.075l-1.177-1.933c0,0-1.709,1.654-4.146,1.654c-2.522,0-4.709-1.708-4.877-4.736h10.341
+		c0,0,0.083-0.757,0.083-1.121C200,26.097,197.871,23.126,193.893,23.126 M189.688,28.899c0.421-2.354,2.102-3.614,4.176-3.614
+		c1.765,0,3.25,1.26,3.334,3.614H189.688z M101.487,59.071c0,1.262,0.532,1.792,1.793,1.792h2.662v-2.324h-1.148
+		c-0.393,0-0.616-0.196-0.616-0.618v-9.443c0-1.26-0.533-1.792-1.794-1.792h-2.663v2.325h1.149c0.394,0,0.617,0.196,0.617,0.617
+		V59.071z M101.543,43.911h2.438v-2.83h-2.438V43.911z M109.053,60.863h2.719v-6.641c0-0.701,0.056-1.346,0.253-1.904
+		c0.56-2.046,2.297-3.476,4.483-3.476c2.27,0,2.661,1.569,2.661,3.559v6.67c0,1.262,0.532,1.792,1.794,1.792h2.69v-2.324h-1.149
+		c-0.393,0-0.616-0.196-0.616-0.618v-6.137c0-3.614-1.514-5.437-4.877-5.437c-3.082,0-4.763,2.019-5.323,3.252h-0.057
+		c0,0,0.057-0.364,0.057-0.813v-0.532c0-1.037-0.589-1.569-1.793-1.569h-2.606v2.325h1.149c0.392,0,0.615,0.196,0.615,0.617V60.863z
+		 M124.97,58.706c0,0,1.878,2.495,5.661,2.495c2.97,0,5.212-1.626,5.212-4.147c0-4.735-7.734-4.147-7.734-6.837
+		c0-1.123,1.037-1.683,2.634-1.683c0.869,0,2.13,0.365,2.13,1.204v0.702h2.438v-1.347c0-2.156-2.942-2.746-4.652-2.746
+		c-2.886,0-5.268,1.263-5.268,3.98c0,4.567,7.733,4.288,7.733,6.837c0,1.232-1.148,1.822-2.466,1.822
+		c-2.605,0-4.287-2.102-4.287-2.102L124.97,58.706z M139.43,55.68c0,4.737,3.614,5.298,5.408,5.298c0.589,0,0.953-0.058,0.953-0.058
+		v-2.409c0,0-0.253,0.057-0.645,0.057c-1.037,0-2.999-0.364-2.999-3.195v-6.501h3.391v-2.187h-3.391v-3.894h-2.662v3.894h-1.905
+		v2.187h1.85V55.68z M149.182,60.863h2.718v-5.8c0-0.868,0.084-1.738,0.337-2.551c0.645-2.101,2.241-3.334,3.979-3.334
+		c0.448,0,0.813,0.083,0.813,0.083v-2.688c0,0-0.365-0.057-0.729-0.057c-2.185,0-3.812,1.626-4.483,3.7h-0.057
+		c0,0,0.057-0.421,0.057-0.981v-0.896c0-1.149-0.588-1.653-1.821-1.653h-2.578v2.325h1.149c0.392,0,0.616,0.196,0.616,0.617V60.863z
+		 M160.166,55.765c0,3.755,1.625,5.437,4.82,5.437c2.802,0,4.623-1.85,5.212-3.251h0.056c0,0-0.027,0.364-0.027,0.812v0.533
+		c0,1.01,0.589,1.568,1.793,1.568h2.606v-2.324h-1.149c-0.392,0-0.617-0.196-0.617-0.618V46.686h-2.717v6.64
+		c0,2.804-1.71,5.353-4.624,5.353c-2.242,0-2.634-1.569-2.634-3.53v-6.725c0-1.205-0.533-1.737-1.822-1.737H158.4v2.325h1.149
+		c0.393,0,0.616,0.196,0.616,0.617V55.765z M183.873,46.349c-4.568,0-7.622,3.25-7.622,7.427c0,4.259,3.11,7.426,7.565,7.426
+		c3.756,0,5.772-2.439,5.772-2.439l-1.176-1.933c0,0-1.739,1.962-4.399,1.962c-2.635,0-4.988-1.821-4.988-5.044
+		c0-2.999,2.073-5.072,4.848-5.072c1.037,0,2.634,0.447,2.634,1.457v0.785h2.466V49.46C188.973,47.049,185.582,46.349,183.873,46.349
+		 M192.673,55.68c0,4.737,3.614,5.298,5.407,5.298c0.589,0,0.953-0.058,0.953-0.058v-2.409c0,0-0.252,0.057-0.644,0.057
+		c-1.038,0-3-0.364-3-3.195v-6.501h3.392v-2.187h-3.392v-3.894h-2.661v3.894h-1.906v2.187h1.851V55.68z"/>
+</symbol>
+</svg><header id="creative-instruct-header">	
+	<div class="inner-header">
+		<button class="fa fa-bars" id="mobile-menu"></button>
+        <h1 id="creative-instruct-logo"><a href="http://www.creativeinstruct.com/" title="Creative Instruct">
+            <svg class="icon" viewbox="0 0 200 90.621">
+                <use xlink:href="#logo"/>
+            </svg>
+        </a></h1>
+        
+		<nav id="main-nav">
+            <ul id="menu-top-menu" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20"><a href="http://www.creativeinstruct.com/category/tutorials/"><i class="fa fa-angle-right"></i>Tutorials</a>
+<ul class="sub-menu">
+	<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="http://www.creativeinstruct.com/category/tutorials/tutorials-sub-1/"><i class="fa fa-angle-right"></i>Tutorials sub 1</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://www.creativeinstruct.com/category/tutorials/tutorials-sub-2/"><i class="fa fa-angle-right"></i>Tutorials sub 2</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://www.creativeinstruct.com/category/tutorials/tutorials-sub-3/"><i class="fa fa-angle-right"></i>Tutorials sub 3</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://www.creativeinstruct.com/category/tutorials/tutorials-sub-4/"><i class="fa fa-angle-right"></i>Tutorials sub 4</a></li>
+</ul>
+</li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://www.creativeinstruct.com/category/articles/"><i class="fa fa-angle-right"></i>Articles</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://www.creativeinstruct.com/category/freebies/"><i class="fa fa-angle-right"></i>Freebies</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.creativeinstruct.com/about/"><i class="fa fa-angle-right"></i>About</a></li>
+</ul>        </nav>
+		
+		<div id="search-container">
+			<form role="search" method="get" class="search-form" action="/">
+				<input id="search-text" type="text" placeholder="Search..." type="search" class="search-field" value="" name="s">
+				<button id="show-search" class="fa fa-search"></button>
+				<span id="search-close" class="fa fa-close"></span>
+				<button id="search" type="submit" class="fa fa-search"></button>
+			</form>
+		</div>
+	</div>
+</header>
+
+<div class="main-wrapper">
+
+<div id="main" role="main">
+    	
+	
+	<div class="inner-main">
+    
+		<article id="post-92" class="article-preview left-img">
+        <div class="article-view">
+        		<a href="http://www.creativeinstruct.com/freebie-test-5/"><img src="http://www.creativeinstruct.com/wp-content/uploads/2015/10/1-text-475x355.png" alt=""></a>
+		            <label>Freebie</label>
+        	</div>
+    
+    <div class="article-info">
+        <header>
+			<h1><i class="fa fa-arrow-right"></i><a href="http://www.creativeinstruct.com/freebie-test-5/">Freebie test 5</a></h1>
+            <a href="http://www.creativeinstruct.com/category/freebies/" class="category">Freebies</a>       		<p class="author">by Vlad Tudor, 26 Nov.2015</p>				
+		</header>
+        <div class="description">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fringilla felis libero, ac condimentum erat rutrum quis. Duis pretium vehicula tristique. Vestibulum scelerisque risus sed lorem euismod sollicitudin.</p>
+		</div>		
+		<footer>
+			<a href="http://www.creativeinstruct.com/freebie-test-5/" class="go-read">
+				<i class="fa fa-file-text-o"></i>Get <span>freebie</span>			</a>
+			<a href="#" class="go-share">
+				<i class="fa fa-share-alt"></i>Share <span>freebie</span>	
+			</a>
+		</footer>
+    </div>
+
+</article><!-- #post-## -->
+<article id="post-90" class="article-preview right-img">
+        <div class="article-view">
+        		<a href="http://www.creativeinstruct.com/freebie-test-4/"><img src="http://www.creativeinstruct.com/wp-content/uploads/2015/10/1-text-475x355.png" alt=""></a>
+		            <label>Freebie</label>
+        	</div>
+    
+    <div class="article-info">
+        <header>
+			<h1><i class="fa fa-arrow-right"></i><a href="http://www.creativeinstruct.com/freebie-test-4/">Freebie test 4</a></h1>
+            <a href="http://www.creativeinstruct.com/category/freebies/" class="category">Freebies</a>       		<p class="author">by Vlad Tudor, 26 Nov.2015</p>				
+		</header>
+        <div class="description">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fringilla felis libero, ac condimentum erat rutrum quis. Duis pretium vehicula tristique. Vestibulum scelerisque risus sed lorem euismod sollicitudin.</p>
+		</div>		
+		<footer>
+			<a href="http://www.creativeinstruct.com/freebie-test-4/" class="go-read">
+				<i class="fa fa-file-text-o"></i>Get <span>freebie</span>			</a>
+			<a href="#" class="go-share">
+				<i class="fa fa-share-alt"></i>Share <span>freebie</span>	
+			</a>
+		</footer>
+    </div>
+
+</article><!-- #post-## -->
+<article id="post-88" class="article-preview left-img">
+        <div class="article-view">
+        		<a href="http://www.creativeinstruct.com/freebie-test-3/"><img src="http://www.creativeinstruct.com/wp-content/uploads/2015/11/ui-alerts-element-preview-1-1.jpg" alt=""></a>
+		            <label>Freebie</label>
+        	</div>
+    
+    <div class="article-info">
+        <header>
+			<h1><i class="fa fa-arrow-right"></i><a href="http://www.creativeinstruct.com/freebie-test-3/">Freebie &#8211; UI Elements &#8211; Alerts and Notification Messages</a></h1>
+            <a href="http://www.creativeinstruct.com/category/freebies/" class="category">Freebies</a>       		<p class="author">by Vlad Tudor, 26 Nov.2015</p>				
+		</header>
+        <div class="description">
+			<p>Great for user input confirmation, success messages and system notifications delivered by your application.</p>
+		</div>		
+		<footer>
+			<a href="http://www.creativeinstruct.com/freebie-test-3/" class="go-read">
+				<i class="fa fa-file-text-o"></i>Get <span>freebie</span>			</a>
+			<a href="#" class="go-share">
+				<i class="fa fa-share-alt"></i>Share <span>freebie</span>	
+			</a>
+		</footer>
+    </div>
+
+</article><!-- #post-## -->
+<article id="post-85" class="article-preview right-img">
+        <div class="article-view">
+        		<a href="http://www.creativeinstruct.com/freebie-test-2/"><img src="http://www.creativeinstruct.com/wp-content/uploads/2015/11/ui-menus-element-preview-1-3-475x355.jpg" alt=""></a>
+		            <label>Freebie</label>
+        	</div>
+    
+    <div class="article-info">
+        <header>
+			<h1><i class="fa fa-arrow-right"></i><a href="http://www.creativeinstruct.com/freebie-test-2/">Freebie &#8211; UI Elements &#8211; Horizontal and Vertical Menus</a></h1>
+            <a href="http://www.creativeinstruct.com/category/freebies/" class="category">Freebies</a>       		<p class="author">by Vlad Tudor, 26 Nov.2015</p>				
+		</header>
+        <div class="description">
+			<p>Slim horizontal and vertical menus with hover effects and hidden elements displayed.<br />
+Layered photoshop file included for download. </p>
+		</div>		
+		<footer>
+			<a href="http://www.creativeinstruct.com/freebie-test-2/" class="go-read">
+				<i class="fa fa-file-text-o"></i>Get <span>freebie</span>			</a>
+			<a href="#" class="go-share">
+				<i class="fa fa-share-alt"></i>Share <span>freebie</span>	
+			</a>
+		</footer>
+    </div>
+
+</article><!-- #post-## -->
+<article id="post-82" class="article-preview left-img">
+        <div class="article-view">
+        		<a href="http://www.creativeinstruct.com/dark-user-interface-kit/"><img src="http://www.creativeinstruct.com/wp-content/uploads/2015/11/ui-buttons-preview-5-475x355.jpg" alt=""></a>
+		            <label>Freebie</label>
+        	</div>
+    
+    <div class="article-info">
+        <header>
+			<h1><i class="fa fa-arrow-right"></i><a href="http://www.creativeinstruct.com/dark-user-interface-kit/">Freebie &#8211; UI Elements &#8211; Buttons</a></h1>
+            <a href="http://www.creativeinstruct.com/category/freebies/" class="category">Freebies</a>       		<p class="author">by Vlad Tudor, 26 Nov.2015</p>				
+		</header>
+        <div class="description">
+			<p>Clean and sharp looking buttons working against any type of background. Great to use in any website or web application design project.</p>
+		</div>		
+		<footer>
+			<a href="http://www.creativeinstruct.com/dark-user-interface-kit/" class="go-read">
+				<i class="fa fa-file-text-o"></i>Get <span>freebie</span>			</a>
+			<a href="#" class="go-share">
+				<i class="fa fa-share-alt"></i>Share <span>freebie</span>	
+			</a>
+		</footer>
+    </div>
+
+</article><!-- #post-## -->
+    <section class="pagination"><ol class="wp-paginate"><li><span class='page current'>1</span></li><li><a href='http://www.creativeinstruct.com/bootrunner/images/AjaxLoader.gif/page/2/' title='2' class='page'>2</a></li><li><a href='http://www.creativeinstruct.com/bootrunner/images/AjaxLoader.gif/page/3/' title='3' class='page'>3</a></li><li><a href='http://www.creativeinstruct.com/bootrunner/images/AjaxLoader.gif/page/4/' title='4' class='page'>4</a></li></ol></section>	</div>
+	<!-- end .inner-main -->
+</div>
+<!-- end #main -->
+
+<aside id="sidebar">
+	<article class="email-subscribe">
+		<header>
+			<i class="fa fa-envelope-o"></i>
+			<h1>Newsletter</h1>
+		</header>
+		<div class="body">
+			<p>Join our readers list and get the latest articles, industry insights, freebies and cool deals!</p>
+            
+	<section id="yikes-mailchimp-container-1" class="yikes-mailchimp-container yikes-mailchimp-container-1 ">
+				<form id="sidebar-subscribe-1" class="yikes-easy-mc-form yikes-easy-mc-form-1  " action="" method="POST" data-attr-form-id="1">
+
+													<label for="EMAIL"  class="EMAIL-label yikes-mailchimp-field-required">
+
+										<!-- dictate label visibility -->
+										
+										<input id="yikes-easy-mc-form-1-EMAIL"  name="EMAIL"  placeholder="your email address..."  class="yikes-easy-mc-email field-no-label"  required="required" type="email"  value="">
+
+										<!-- description -->
+										
+									</label>
+									
+				<!-- Honepot Trap -->
+				<input type="hidden" name="yikes-mailchimp-honeypot" id="yikes-mailchimp-honeypot" value="">
+
+				<!-- List ID -->
+				<input type="hidden" name="yikes-mailchimp-associated-list-id" id="yikes-mailchimp-associated-list-id" value="5f9b74fec6">
+
+				<!-- Form that is being submitted! Used to display error/success messages above the correct form -->
+				<input type="hidden" name="yikes-mailchimp-submitted-form" id="yikes-mailchimp-submitted-form" value="1">
+
+				<!-- Submit Button -->
+				<button type="submit" class="yikes-easy-mc-submit-button yikes-easy-mc-submit-button-1 btn btn-primary ">Subscribe me!</button>				<!-- Nonce Security Check -->
+				<input type="hidden" id="yikes_easy_mc_new_subscriber" name="yikes_easy_mc_new_subscriber" value="0abd6d82d3" /><input type="hidden" name="_wp_http_referer" value="/bootrunner/images/AjaxLoader.gif" />
+			</form>
+			<!-- MailChimp Form generated using Easy Forms for MailChimp v6.1.4 by YIKES, Inc. (https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/) -->
+
+			</section>
+			</div>
+	</article>
+
+	<section class="social-subscribe">
+		<div class="fb">			
+			<a target="_blank" href="https://www.facebook.com/"><i class="fa fa-facebook"></i>Like Us on Facebook</a>
+		</div>
+		<div class="twitter">			
+			<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter"></i>Follow us on Twitter</a>
+		</div>
+		<div class="youtube">			
+			<a target="_blank" href="https://www.youtube.com"><i class="fa fa-youtube-play"></i>Subscribe to youtube</a>
+		</div>	
+	</section>	
+</aside>
+<!-- end #sidebar -->
+</div>
+<!-- end .main-wrapper -->
+
+<footer id="main-footer">
+	<article class="get-social">
+		<h2>Get social with us! Join the creative community.</h2>
+		<ul>
+			<li class="fa-stack fa-lg">
+				<a href="https://www.facebook.com/" target="_blank">
+			    	<i class="fa fa-circle fa-stack-2x"></i>
+			    	<i class="fa fa-facebook fa-stack-1x"></i>
+			    </a>
+			</li>
+			<li class="fa-stack fa-lg">
+				<a href="https://twitter.com/" target="_blank">
+				    <i class="fa fa-circle fa-stack-2x"></i>
+				    <i class="fa fa-twitter fa-stack-1x"></i>
+			    </a>
+			</li>
+			<li class="fa-stack fa-lg">
+				<a href="https://www.youtube.com" target="_blank">
+				    <i class="fa fa-circle fa-stack-2x"></i>
+			    	<i class="fa fa-youtube-play fa-stack-1x"></i>
+		    	</a>
+			</li>
+		</ul>	
+	</article>
+	<div class="footer-container">
+		<div id="footer">
+			<p>All Rights Reserved <a href="/">creativeinstruct.com</a> &copy; 2010 - 2017</p>
+            <ul id="menu-footer-menu" class="nav"><li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://www.creativeinstruct.com/category/articles/">Articles</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://www.creativeinstruct.com/category/tutorials/">Tutorials</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34"><a href="http://www.creativeinstruct.com/category/freebies/">Freebies</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://www.creativeinstruct.com/about/">About</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.creativeinstruct.com/privacy-policy/">Privacy Policy</a></li>
+</ul>		</div>
+	</div>
+</footer>
+
+	
+
+
+<div id="overlayer"></div>
+</body>
+</html>
+
