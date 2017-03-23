@@ -355,7 +355,7 @@ $.extend( $.validator, {
 			this.pendingRequest = 0;
 			this.pending = {};
 			this.invalid = {};
-			this.reset();
+		/*	this.reset();  */
 
 			var groups = ( this.groups = {} ),
 				rules;
@@ -477,7 +477,7 @@ $.extend( $.validator, {
 		},
 
 		// http://jqueryvalidation.org/Validator.resetForm/
-		resetForm: function() {
+	/*	resetForm: function() {
 			if ( $.fn.resetForm ) {
 				$( this.currentForm ).resetForm();
 			}
@@ -497,7 +497,7 @@ $.extend( $.validator, {
 			} else {
 				elements.removeClass( this.settings.errorClass );
 			}
-		},
+		},   */
 
 		numberOfInvalids: function() {
 			return this.objectLength( this.invalid );
@@ -584,22 +584,22 @@ $.extend( $.validator, {
 			return $( this.settings.errorElement + "." + errorClass, this.errorContext );
 		},
 
-		reset: function() {
+	/*	reset: function() {
 			this.successList = [];
 			this.errorList = [];
 			this.errorMap = {};
 			this.toShow = $( [] );
 			this.toHide = $( [] );
 			this.currentElements = $( [] );
-		},
+		},  */
 
 		prepareForm: function() {
-			this.reset();
+	/*		this.reset();  */
 			this.toHide = this.errors().add( this.containers );
 		},
 
 		prepareElement: function( element ) {
-			this.reset();
+	/*	this.reset();  */
 			this.toHide = this.errorsFor( element );
 		},
 
@@ -948,7 +948,7 @@ $.extend( $.validator, {
 
 		// cleans up all forms and elements, removes validator-specific events
 		destroy: function() {
-			this.resetForm();
+		/*	this.resetForm();  */
 
 			$( this.currentForm )
 				.off( ".validate" )
