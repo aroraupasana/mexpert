@@ -11,6 +11,7 @@ html {
 }
 body {
   margin: 0;
+  background-image: url("../images/bg.png");
 }
 article,
 aside,
@@ -189,7 +190,7 @@ th {
     background: transparent !important;
     color: #000 !important;
     box-shadow: none !important;
-    text-shadow: none !important;
+    /*text-shadow: none !important;*/
   }
   a,
   a:visited {
@@ -5819,7 +5820,7 @@ button.list-group-item-danger.active:focus {
   font-weight: bold;
   line-height: 1;
   color: #000;
-  text-shadow: 0 1px 0 #fff;
+  /*text-shadow: 0 1px 0 #fff;*/
   opacity: 0.2;
   filter: alpha(opacity=20);
 }
@@ -6299,7 +6300,7 @@ button.close {
   font-size: 20px;
   color: #fff;
   text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  /*text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);*/
   background-color: rgba(0, 0, 0, 0);
 }
 .carousel-control.left {
@@ -6398,7 +6399,7 @@ button.close {
   padding-bottom: 20px;
   color: #fff;
   text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  /*text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);*/
 }
 .carousel-caption .btn {
   text-shadow: none;
@@ -6983,10 +6984,10 @@ a:focus {
   height: 100%;
 }
 .overlay.overlay-bg {
-  background: rgba(0, 0, 0, 0.55);
+  background: rgba(128, 128, 128, 0.24);
 }
 .overlay.overlay-bg-2 {
-  background: rgba(6, 6, 6, 0.7);
+ /* background: rgba(6, 6, 6, 0.7);*/
 }
 .overlay.overlay-bg-3 {
   background: rgba(6, 6, 6, 0.8);
@@ -7488,13 +7489,13 @@ a:focus {
   font-size: 80px;
   padding-bottom: 0px;
   color: #fafafa;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .coming-soon-section p.lead {
   font-size: 42px;
   padding-bottom: 20px;
   color: #9c9c9c;
-  text-shadow: 1px 1px 1px #000;
+  /*text-shadow: 1px 1px 1px #000;*/
 }
 .coming-soon-section p.lead span {
   color: #0B9AE0;
@@ -7507,7 +7508,7 @@ a:focus {
   text-transform: uppercase;
   color: #0B9AE0;
   font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
-  text-shadow: 0px 1px 2px #000;
+  /*text-shadow: 0px 1px 2px #000;*/
 }
 .coming-soon-section .time_circles > div > span {
   display: block;
@@ -7518,7 +7519,7 @@ a:focus {
   font-weight: bold;
   color: #0B9AE0;
   font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
-  text-shadow: 0px 1px 2px #000;
+  /*text-shadow: 0px 1px 2px #000;*/
 }
 .coming-soon-section form {
   margin-top: 40px;
@@ -7529,7 +7530,7 @@ a:focus {
   color: #0B9AE0;
   font-weight: 400;
   margin-bottom: 20px;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
   cursor: pointer;
 }
 .coming-soon-section form .form-group .form-control {
@@ -7551,7 +7552,7 @@ a:focus {
 .coming-soon-section form .form-group .btn {
   border-radius: 0;
   background: #0B9AE0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
   color: #fff;
   border: 1px solid #b36500;
   box-shadow: 0 2px 0 #b36500;
@@ -7603,12 +7604,12 @@ a:focus {
   font-size: 60px;
   padding-bottom: 0px;
   color: #fafafa;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .get-quote-section .container-text p.lead {
   font-size: 24px;
   color: #9c9c9c;
-  text-shadow: 1px 1px 1px #000;
+  /*text-shadow: 1px 1px 1px #000;*/
   padding-bottom: 20px;
 }
 .get-quote-section .container-text p.lead span {
@@ -7622,7 +7623,7 @@ a:focus {
   font-size: 18px;
   font-weight: 300;
   padding: 6px 0;
-  text-shadow: 1px 1px 1px #202020;
+  /*text-shadow: 1px 1px 1px #202020;*/
 }
 .get-quote-section .container-text ul li span {
   padding-right: 20px;
@@ -7635,13 +7636,13 @@ a:focus {
   font-weight: 300;
   text-align: center;
   padding-bottom: 10px;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .get-quote-section .container-text p {
   color: #9c9c9c;
   font-size: 18px;
   line-height: 26px;
-  text-shadow: 1px 1px 1px #000;
+  /*text-shadow: 1px 1px 1px #000;*/
   padding-bottom: 40px;
 }
 .get-quote-section .container-form {
@@ -7669,7 +7670,7 @@ a:focus {
   color: #0B9AE0;
   font-weight: 400;
   margin-bottom: 5px;
-  text-shadow: 0px 1px 1px #303030;
+  /*text-shadow: 0px 1px 1px #303030;*/
   cursor: pointer;
 }
 .get-quote-section .container-form form .form-group .form-control {
@@ -7690,7 +7691,7 @@ a:focus {
 .get-quote-section .container-form form .form-group .btn {
   border-radius: 0;
   background: #0B9AE0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /**text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
   color: #fff;
   border: 1px solid #0B9AE0;
   box-shadow: 0 2px 0 #b36500;
@@ -7815,7 +7816,7 @@ a:focus {
   font-size: 18px;
   font-weight: 400;
   padding: 5px 0;
-  text-shadow: 1px 1px 1px #202020;
+  /*text-shadow: 1px 1px 1px #202020;*/
 }
 .owl-carousel-stage ul li span {
   padding-right: 20px;
@@ -7847,7 +7848,7 @@ a:focus {
   font-size: 100px;
   padding-bottom: 20px;
   color: #fff;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .parallax-section h1 span {
   color: #0B9AE0;
@@ -7856,7 +7857,7 @@ a:focus {
   font-weight: 400;
   font-size: 42px;
   color: rgba(255, 255, 255, 0.9);
-  text-shadow: 1px 1px 2px #000;
+  /*text-shadow: 1px 1px 2px #000;*/
 }
 .parallax-section .scroll-link {
   position: absolute;
@@ -7910,7 +7911,7 @@ a:focus {
   font-size: 100px;
   padding-bottom: 20px;
   color: #fff;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .video-section h1 span {
   color: #0B9AE0;
@@ -7919,7 +7920,7 @@ a:focus {
   font-weight: 400;
   font-size: 42px;
   color: rgba(255, 255, 255, 0.9);
-  text-shadow: 1px 1px 2px #000;
+  /*text-shadow: 1px 1px 2px #000;*/
 }
 .video-section .scroll-link {
   position: absolute;
@@ -7946,7 +7947,7 @@ a:focus {
 }
 .video-section .scroll-link a:hover span {
   color: #fff;
-  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);*/
 }
 .video-section .scroll-link a span {
   line-height: 68px;
@@ -7975,7 +7976,7 @@ a:focus {
   font-size: 80px;
   padding-bottom: 30px;
   color: #fff;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .featured-web-app-section h1 span {
   color: #0B9AE0;
@@ -8161,12 +8162,12 @@ a:focus {
 *************************/
 .home-section {
   padding-top: 74px;
-  background-image: url("../images/bg-2.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+  background-image: url("../images/bghead.jpg");
+  /*background-size: cover;*/
+  /*background-repeat: no-repeat;*/
+  /*background-position: center center;*/
   height: 100%;
-  min-height: 900px;
+  min-height: 600px;
   position: relative;
   overflow: hidden;
 }
@@ -8174,7 +8175,7 @@ a:focus {
   font-size: 120px;
   padding-bottom: 30px;
   color: #fff;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .home-section h1 span {
   color: #0B9AE0;
@@ -8183,7 +8184,7 @@ a:focus {
   font-weight: 400;
   font-size: 42px;
   color: rgba(255, 255, 255, 0.9);
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .home-section .scroll-link {
   position: absolute;
@@ -8210,7 +8211,7 @@ a:focus {
 }
 .home-section .scroll-link a:hover span {
   color: #fff;
-  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);*/
 }
 .home-section .scroll-link a span {
   line-height: 68px;
@@ -8232,13 +8233,13 @@ a:focus {
   font-size: 54px;
   padding-bottom: 0px;
   color: #404040;
-  text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);*/
 }
 .product-section p.lead {
   font-size: 34px;
   padding-bottom: 60px;
   color: #808080;
-  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);
+  /*text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);*/
 }
 .product-section h3 {
   font-size: 20px;
@@ -8280,7 +8281,7 @@ a:focus {
 //== START SERVICES SECTION
 *************************/
 .services-section {
-  background-image: url("../images/services-area-bg.jpg");
+  /*background-image: url("../images/bg.png");*/
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -8293,20 +8294,20 @@ a:focus {
 .services-section h2 {
   font-size: 54px;
   padding-bottom: 0px;
-  color: #fafafa;
-  text-shadow: 1px 1px 3px #000;
+  color: #404040;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .services-section p.lead {
   font-size: 34px;
   padding-bottom: 60px;
   color: #9c9c9c;
-  text-shadow: 1px 1px 1px #000;
+  /*text-shadow: 1px 1px 1px #000;*/
 }
 .services-section h3 {
   color: #fff;
   font-size: 22px;
   padding-bottom: 5px;
-  text-shadow: 1px 1px 1px #000;
+  /*text-shadow: 1px 1px 1px #000;*/
 }
 .services-section h3 span {
   font-size: 32px;
@@ -8443,13 +8444,13 @@ a:focus {
   font-size: 54px;
   padding-bottom: 0px;
   color: #404040;
-  text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);*/
 }
 .pricing-section p.lead {
   font-size: 34px;
   padding-bottom: 60px;
   color: #808080;
-  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);
+  /*text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);*/
 }
 .pricing-section .pricing-box {
   background: #fff;
@@ -8520,7 +8521,7 @@ a:focus {
   margin: 6px;
   border-bottom: 2px solid #b36500;
   color: #FFF;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 .pricing-section .pricing-box .pricing-box-header p {
   font-size: 32px;
@@ -8568,7 +8569,7 @@ a:focus {
   background: #0B9AE0;
   color: #fff;
   box-shadow: 0 2px 0 #b36500;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 /************************
 //== END PRICING SECTION
@@ -8584,13 +8585,13 @@ a:focus {
   font-size: 54px;
   padding-bottom: 0px;
   color: #404040;
-  text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);*/
 }
 .portfolio-section p.lead {
   font-size: 34px;
   padding-bottom: 60px;
   color: #808080;
-  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);
+  /*text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);*/
 }
 .portfolio-section .btn-group {
   color: #333;
@@ -8610,7 +8611,7 @@ a:focus {
 }
 .portfolio-section .btn-group .active {
   background: #0B9AE0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
   color: #fff;
   border: 1px solid #b36500;
   box-shadow: 0 2px 0 #b36500;
@@ -8667,7 +8668,7 @@ a:focus {
   text-decoration: none;
   border: 1px solid #b36500;
   box-shadow: 0 2px 0 #b36500;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 .portfolio-section .project-container a:hover {
   background: #ff9c1a;
@@ -8675,7 +8676,7 @@ a:focus {
   text-decoration: none;
   border: 1px solid #b36500;
   box-shadow: 0 2px 0 #b36500;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 .portfolio-section .project-container a:active {
   background: #0B9AE0;
@@ -8683,7 +8684,7 @@ a:focus {
   text-decoration: none;
   border: 1px solid #b36500;
   box-shadow: inset 0px 1px 1px #6D4100;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 /************************
 //== END PORTOFOLIO SECTION
@@ -8701,7 +8702,7 @@ a:focus {
   font-size: 54px;
   padding-bottom: 0px;
   color: #fafafa;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
   margin-bottom: 30px;
 }
 .testimonials-section .testimonial {
@@ -8781,7 +8782,7 @@ a:focus {
   padding-bottom: 0px;
   margin-bottom: 30px;
   color: #404040;
-  text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);*/
 }
 .team-section .panel.team-member {
   min-height: 200px;
@@ -9000,7 +9001,7 @@ color: rgb(40, 141, 203);
   font-size: 54px;
   padding-bottom: 0px;
   color: #fafafa;
-  text-shadow: 1px 1px 3px #000;
+  /*text-shadow: 1px 1px 3px #000;*/
 }
 .faq-section p.lead {
   font-size: 34px;
@@ -9077,20 +9078,20 @@ color: rgb(40, 141, 203);
 ************************/
 .history-section {
   box-shadow: 1px 2px 5px #c3c3c3 inset;
-  background: #fafafa;
+  /*background: #fafafa;*/
 }
 .history-section h2 {
   font-size: 54px;
   padding-bottom: 0px;
   margin-bottom: 10px;
   color: #404040;
-  text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);*/
 }
 .history-section p.lead {
   font-size: 34px;
   padding-bottom: 60px;
   color: #808080;
-  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);
+  /*text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);*/
 }
 .history-section .cntl-bar-fill {
   background-color: #003366;
@@ -9153,7 +9154,7 @@ color: rgb(40, 141, 203);
 //== START CONTACT SECTION
 ************************/
 .contact-section {
-  background: #fff;
+  /*background: #fff;*/
   box-shadow: 1px 2px 5px #c3c3c3 inset;
 }
 .contact-section .btn {
@@ -9165,20 +9166,20 @@ color: rgb(40, 141, 203);
   background: #0B9AE0;
   color: #fff;
   box-shadow: 0 2px 0 #0B9AE0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 .contact-section h2 {
   font-size: 54px;
   padding-bottom: 0px;
   margin-bottom: 10px;
   color: #404040;
-  text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);
+  /*text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.2);*/
 }
 .contact-section p.lead {
   font-size: 34px;
   padding-bottom: 60px;
   color: #808080;
-  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);
+  /*text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.9);*/
 }
 .contact-section .form-group {
   margin-bottom: 20px;
@@ -9257,35 +9258,35 @@ color: rgb(40, 141, 203);
 }
 .contact-section .social-media-links li a.facebook-link:hover {
   color: #3c5aa1;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 .contact-section .social-media-links li a.twitter-link:hover {
   color: #1b95e0;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 .contact-section .social-media-links li a.linkedin-link:hover {
   color: #1882b6;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 .contact-section .social-media-links li a.dribbble-link:hover {
   color: #c32361;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 .contact-section .social-media-links li a.google-plus-link:hover {
   color: #d03e2c;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 .contact-section .social-media-links li a.pinterest-link:hover {
   color: #d0292c;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 .contact-section .social-media-links li a.instagram-link:hover {
   color: #2a5b83;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 .contact-section .social-media-links li a.youtube-link:hover {
   color: #e62117;
-  text-shadow: 0 1px 1px #888;
+  /*text-shadow: 0 1px 1px #888;*/
 }
 /************************
 //== END CONTACT SECTION
@@ -9359,7 +9360,7 @@ footer form .form-group .form-control:focus {
 footer form .form-group .btn {
   border-radius: 0;
   background: #0B9AE0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
   color: #fff;
   border: 1px solid #b36500;
   box-shadow: 0 2px 0 #b36500;
@@ -9453,7 +9454,7 @@ footer .wrap-copy-note p {
   color: #fafafa;
   box-shadow: inset 0 6px 34px #000000;
   margin-bottom: 11px;
-  text-shadow: 0 2px 2px #202020;
+  /*text-shadow: 0 2px 2px #202020;*/
   background: #3c3c3c;
 }
 .theme-services-modal .modal .modal-content .modal-footer .btn {
@@ -9466,7 +9467,7 @@ footer .wrap-copy-note p {
   background: #0B9AE0;
   color: #fff;
   box-shadow: 0 2px 0 #b36500;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 /************************
 //== END SERVICES MODAL
@@ -9501,7 +9502,7 @@ footer .wrap-copy-note p {
   background: #0B9AE0;
   color: #fff;
   box-shadow: 0 2px 0 #b36500;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+  /*text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);*/
 }
 /************************
 //== END SUCCESS MODAL
