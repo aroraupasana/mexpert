@@ -118,7 +118,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
               <div class="spacer-40 hidden-lg"></div>
             </div>
             <div class=" wow slideInRight" data-wow-duration="600ms">
-              <img src="images/altius.jpg" alt="" style=" padding-top:38px; float: left; width:500px; height: 385px;">
+              <img src="images/altius.jpg" alt="" style=" padding-top:38px; float: left; width:500px; height: 418px;">
               <!--<div class="spacer-60 hidden-lg"></div>-->
             </div>
     
