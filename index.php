@@ -44,7 +44,7 @@
 
   <body>
         
-   
+     
 
     <!-- start style-switcher for presentation purpose only -->
     <!--<div class="style-switcher">
@@ -75,7 +75,8 @@
               <!--<h1 class="text-center">HELLO <span>BOOTRUNNER!</span></h1>
               <p class="text-center lead">Beautiful theme for a <span class="rotate">quick, flexible, easy</span> development.</p>  -->
               <h1 class="text-center"><span>Mexperts</span></h1>
-              <p class="text-center lead fadeInDown wow animated wow fadeIn" data-wow-delay=".2s">We <span class="rotate">Design, Build, Create</span> </p>     
+              <p class="text-center lead fadeInDown wow animated wow fadeIn" data-wow-delay=".2s">We <span class="rotate"> Snap to create,Envison to Build,
+ the Mexperts</span> </p>     
             </div>
           </div>
         </div>
@@ -117,7 +118,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
               <div class="spacer-40 hidden-lg"></div>
             </div>
             <div class=" wow slideInRight" data-wow-duration="600ms">
-              <img src="images/altius.jpg" alt="" style=" padding-top:200px; float: left; width:500px; height: 550px;">
+              <img src="images/altius.jpg" alt="" style=" padding-top:38px; float: left; width:500px; height: 385px;">
               <!--<div class="spacer-60 hidden-lg"></div>-->
             </div>
     
