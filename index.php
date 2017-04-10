@@ -1,20 +1,14 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
   
-<!-- Mirrored from www.creativeinstruct.com/bootrunner/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Feb 2017 06:59:46 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-    <!--<meta content="IE=edge" http-equiv="X-UA-Compatible" /><!-- Favicon -->
     <link href="images/logo-mexperts.jpg" rel="shortcut icon" />
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    
     <meta name="description" content="Mexperts is an NIT Kurukshetra Society.">
     <meta name="author" content="Web team">
-    
-    <!-- Plugings CSS & Bootstrap CSS Customized -->
     <link rel="stylesheet" type="text/css" href="css/css-plugins/vertical-navigation.css">
     <link rel="stylesheet" type="text/css" href="css/css-plugins/simpletextrotator.css">
     <link rel="stylesheet" type="text/css" href="css/css-plugins/animate.css">
@@ -27,53 +21,25 @@
     <link rel="stylesheet" type="text/css" href="css/css-plugins/bootstrap-dropdownhover.css">
     
     <link id="page-theme" rel="stylesheet" type="text/css" href="css/bootstrap-theme-orange.css">
-    <!--<title>Bootrunner - One Page Website Multi-Purpose Business Theme</title>-->
     <title>Mexperts</title>
-    
-    <!-- Prevent Page Flush of Unstyled Content -->
     <style type="text/css">
       .no-fouc {visibility: hidden;}
     </style>
     <script type="text/javascript">
       document.documentElement.className = 'no-fouc';
     </script>
-
-    <!-- read-cookie-demo.js is for presentation purpose only -->
     <script src="js/js-theme/read-cookie-demo.js"></script>
   </head>
 
   <body>
-        
-     
-
-    <!-- start style-switcher for presentation purpose only -->
-    <!--<div class="style-switcher">
-      <div class="visibility-switch glyphicon glyphicon-cog"></div>
-      <div class="style-container">
-        
-    
-        <p>Color Schemes</p>
-        <div class="theme-colors">
-          <a id="theme-green" title="green" class="color-selector" href="#">&nbsp;</a>
-          <a id="theme-blue" title="blue" class="color-selector" href="#">&nbsp;</a>
-          <a id="theme-orange" title="orange" class="color-selector" href="#">&nbsp;</a>
-          <a id="theme-red" title="red" class="color-selector" href="#">&nbsp;</a>
-          <a id="theme-purple" title="purple" class="color-selector" href="#">&nbsp;</a>
-          <a id="theme-pink" title="pink" class="color-selector" href="#">&nbsp;</a>
-        </div>
-      </div>
-    </div>-->
-    <!-- end .style-switcher -->
-
-    <!-- start .home-section -->
+   
     <div id="home" class="home-section section">
       <div class="overlay overlay-bg"></div>
       <div class="wrap-section-content">
         <div class="container">
           <div class="row">
             <div class="col-md-12 wow fadeInDown" data-wow-duration="1200ms">
-              <!--<h1 class="text-center">HELLO <span>BOOTRUNNER!</span></h1>
-              <p class="text-center lead">Beautiful theme for a <span class="rotate">quick, flexible, easy</span> development.</p>  -->
+            
               <h1 class="text-center"><span>Mexperts</span></h1>
               <p class="text-center lead fadeInDown wow animated wow fadeIn" data-wow-delay=".2s">We <span class="rotate"> Snap to create,Envison to Build,
  the Mexperts</span> </p>     
@@ -84,9 +50,7 @@
       
       
     </div>
-    <!-- end .home-section -->
-
-      <!--WHO WE ARE-->
+   
     <div id="services" class="services-section section">
       <div id="particles-js" class="overlay overlay-bg-2"></div>
       <div class="wrap-section-content">
@@ -101,7 +65,7 @@
               <div class="item-1 wow zoomIn" data-wow-duration="400ms">
                 <h3 class="text-left" ><span class="fa fa-code"></span>Mexperts</h3>
                 <div class="panel"> 
-                  <!--<p>We design landing pages, responsive email templates, websites and web-based applications. Customize your business look and feel with these ideas.</p>-->
+                 
                   <p>"union is strength supported by pillars of education"
 when we are in an institution of national importance,
 we are here to pull our nation's growth on our shoulders,unitedly,educatedly
@@ -112,35 +76,31 @@ Be a part of our family and glow your skills to infinity
 MEXPERTS is a PG techno-managerial Society of NIT Kurukshetra 
 that lits every light to enlighten the nation with young aspiring minds</p>
 
-                  <!--<a href="#" data-toggle="modal" data-target="#webdesign">Read more <span class="fa fa-chevron-right"></span></a>-->
-                </div>
+                                 </div>
               </div>
               <div class="spacer-40 hidden-lg"></div>
             </div>
             <div class=" wow slideInRight" data-wow-duration="600ms">
               <img src="images/altius.jpg" alt="" style=" padding-top:38px; float: left; width:500px; height: 418px;">
-              <!--<div class="spacer-60 hidden-lg"></div>-->
+             
             </div>
     
             
     
           </div>
 
-          <!-- end .row -->
+          
         </div>
-        <!-- end .container -->
+       
       </div>
-      <!-- end .wrap-section-content -->
+      
     </div>
-    <!-- end WHO WE ARE -->
    
-    <!-- start .altius-section -->
     <div id="history" class="history-section section">
       <div class="wrap-section-content">
         <div class="container" >
           <div class="row">
             <div class="col-lg-12 wow fadeIn" data-wow-duration="1000ms">
-              <!--<h2 class="text-center">Our History</h2>-->
               <h2 class="text-center">Altius'16</h2>
               <p class="lead text-center">7<sup>th</sup> - 9<sup>th</sup> October </p>
             </div>
@@ -159,10 +119,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                   <div class="col-lg-12">
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Webby Awards - Agency of the Year</h4>
-                      <p>We won first place at the Web Awards event for the best website design. A total of 20 companies gathered from the online marketing, social media and mobile development industry. We manage to create new contacts and promote our clients, so in the end everyone was happy.</p>
-                    </div>
-                    <div class="cntl-icon cntl-center">2016</div>-->
+                     
                     <h4>Boost the Code</h4>
                       <p>The event is related to optimise the code as much you can. There will be 2 rounds In this code will be given with adhoc approach and they have to optimise the code.</p>
                     </div>
@@ -173,9 +130,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                   <div class="cntl-state">
     
                     <div class="cntl-content">
-                      <!--<h4>5 New Mobile Apps on the Market</h4>
-                      <p>In this fast paced world people need to be connected and have mobility at the same time. The personal phone is the tool you carry with you no matter where you go. We had to adapt our development flow and come up with mobile solutions for our clients and their end users. This year we managed to ship a total of 5 new applications:</p>
-                      <p>Softintel – an Android app for resource planning and allocation was the first. MoneyAgent –the personal wallet application for both iOS and Android. Monkey Jumps – a social game for children between 7-14 years old. Runner – for people who like jogging, and BookingTrips – for those who love to travel.</p>-->
+                    
                       <h4>Game of Brains</h4>
                       <p>This event is based on IT general knowledge and Puzzles questions. It consists of 2 rounds 1.Geek-qiuz 2.Battle of Brains.</p>
                       <p>Your mind will be Shuffled Come with your Cards (♠ ♣ ♥ ♦)</p>
@@ -186,12 +141,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Portfolio reached over 100 clients</h4>
-                      <p>Start small, finish big is what we had in mind from the beginning. We manage to increase our client base and we are really proud to work with them.</p>
-                      <p>The people that worked with us recommend our company. At the end of the day we know that it's not only about numbers, but quality. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-2.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2012</div>-->
+                     
                     <h4>Blind-Coding</h4>
                       <p>Two member(Team) event where you will not be provided with proper interface and facilities to write the code.</p>
                       <p>Round 1: -Written round</p>
@@ -203,13 +153,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>The Team got Larger</h4>
-                      <p>We reached new markets. We got bigger projects and bigger budgets - so ... we hired more people. We were 3 in the beginning, and now we count a total of 8 people. It's more than double!</p>
-                      <p>Though we are pretty different as individuals, we enjoy working together. Every morning we gather for our daily meeting, we drink our coffee and start building and creating great things. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-3.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2011</div>-->
-                    <h4>Boot Camping</h4>
+                       <h4>Boot Camping</h4>
                       <p>The event comprises of two categories<br>
                          <p> 1.Team event<br>
                           2. Solo Event</p>
@@ -221,12 +165,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
+                     
                     <h4>Pixellete</h4>
                       <p>to show the creative skills in designing a poster or a flex with the help of designing or editing softwares such as Photoshop, Picasa ,etc. </p>
                     </div>
@@ -235,12 +174,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                   </div>
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
+                     
                     <h4>Technical Relay</h4>
                       <p>It’s a two members event having great coordination. Two rounds will be there
                         <p>1st one will be based on written+compatibility with the partner as time slots will be given to them.</p>
@@ -257,26 +191,18 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                 </div>
                 </div>
               </div>
-              <!-- end .cntl -->
             </div>
-            <!-- end .col-lg-12 -->
           </div>
-          <!-- end .row -->
         </div>
-        <!-- end .container -->
       </div>
-      <!-- end .wrap-section-content -->
     </div>
-    <!-- end .altius-section -->
 
 
-    <!-- start .techspardha-section -->
     <div id="history2" class="history-section section">
       <div class="wrap-section-content">
         <div class="container" >
           <div class="row">
             <div class="col-lg-12 wow fadeIn" data-wow-duration="1000ms">
-              <!--<h2 class="text-center">Our History</h2>-->
               <h2 class="text-center">Techspardha'17</h2>
               <p class="lead text-center">19<sup>th</sup> - 22<sup>th</sup> January </p>
             </div>
@@ -295,10 +221,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                   <div class="col-lg-12">
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Webby Awards - Agency of the Year</h4>
-                      <p>We won first place at the Web Awards event for the best website design. A total of 20 companies gathered from the online marketing, social media and mobile development industry. We manage to create new contacts and promote our clients, so in the end everyone was happy.</p>
-                    </div>
-                    <div class="cntl-icon cntl-center">2016</div>-->
+                     
                     <h4>Thundercode-Coding</h4>
                       <p>It’s a Two-round programming contest- one on-site competition and one online contests. First round tests your programming aptitude and reasoning whereas the subsequent rounds focus on your programming skills. Thunder out your code to be a winner.</p>
                     </div>
@@ -309,9 +232,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                   <div class="cntl-state">
     
                     <div class="cntl-content">
-                      <!--<h4>5 New Mobile Apps on the Market</h4>
-                      <p>In this fast paced world people need to be connected and have mobility at the same time. The personal phone is the tool you carry with you no matter where you go. We had to adapt our development flow and come up with mobile solutions for our clients and their end users. This year we managed to ship a total of 5 new applications:</p>
-                      <p>Softintel – an Android app for resource planning and allocation was the first. MoneyAgent –the personal wallet application for both iOS and Android. Monkey Jumps – a social game for children between 7-14 years old. Runner – for people who like jogging, and BookingTrips – for those who love to travel.</p>-->
+                      
                       <h4>Astro-Wars-Online</h4>
                       <p>Got bored of playing games! Here is another challenge for you to code the behavior of the Spaceship and its behaviors in response to events. Astro-Wars will constitute of two player's Spaceship going against each other. First player to finish off the other Spaceship by bringing its health to zero will be the winner. So,its time to rule your own planet !!! So, here is a way to your world Astro wars.in .The Site for registering is www.Astrowars.in</p>
                     </div>
@@ -321,12 +242,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Portfolio reached over 100 clients</h4>
-                      <p>Start small, finish big is what we had in mind from the beginning. We manage to increase our client base and we are really proud to work with them.</p>
-                      <p>The people that worked with us recommend our company. At the end of the day we know that it's not only about numbers, but quality. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-2.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2012</div>-->
+                     
                     <h4>Game Of Brains-Quiz</h4>
                       <p>Addicted to solving puzzles and dreaming all about for code. If yes, then bring you high cards because your mind will be shuffled!! Here at GOB, you will get the most exciting puzzles. Get ready to burst your Brains. Round-1(Objective Type Questions) This round will consist of Multiple –choice questions based on various puzzles, code and some brain teasers. Round-2 : This round is divided into three categories ||Round a. Identify the IT Company Name. ||Round b. Guess technologies and Company logo. ||Round c. Connect the Image Round 3: This round will check the problem solving skills, ability to think and apply, presence of mind, general knowledge and other technical knowledge. The teams will be awarded points. The one with highest score will be the winner. </p>
                     </div>
@@ -336,12 +252,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>The Team got Larger</h4>
-                      <p>We reached new markets. We got bigger projects and bigger budgets - so ... we hired more people. We were 3 in the beginning, and now we count a total of 8 people. It's more than double!</p>
-                      <p>Though we are pretty different as individuals, we enjoy working together. Every morning we gather for our daily meeting, we drink our coffee and start building and creating great things. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-3.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2011</div>-->
+                     
                     <h4>The All-Rounder-Quiz</h4>
                       <p>So you think you've got it all? Are you the best in all the fields? Not NERDY but the one who got ALL-ROUND capability is the new SEXY ;) The All-Rounder is a team event. The event will comprise of 4 miscellaneous rounds ranging from quizzing to gaming to puzzling to scavenger hunt. Some of the rounds will be elimination rounds.</p>
                     </div>
@@ -351,12 +262,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
+                      
                     <h4>Espirit De Corps-Fun</h4>
                       <p>“Teamwork Makes The Dreamwork” Espirit de corps is all about your team work and how you perform well by covering up for each other, working together with cooperation and coordination in all situations. In this, team is required to perform a skit on the given topic and judgement will be done on the basis of their team spirit ,content of the topic, relevance to theme, and inacting the role out. </p>
                     </div>
@@ -366,12 +272,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
+                      
                     <h4>Corporate Roadies-Fun</h4>
                       <p>“Life is too short to be just a wallflower...to be just a face in the crowd…shake it up a bit…not everyone will like you but they will respect you” _Ranvijay Singh Rathore Corporate roadies will be an event of bringing the best from participants by throwing worst to them and making them aware of the roughness of corporate life. It will be a pair event. Each round will be an elimination to reach the final round .The rounds will require their physical ability, knowledge of workplace environment, and their ability to manage time.</p>
                     </div>
@@ -383,12 +284,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
+                     
                     <h4>Bulls & Bears-Managerial</h4>
                       <p>A stock market event comprising of two rounds. The first round will be a quiz to check the knowledge of the participants regarding the stock market. It will be an elimination round. The 2nd round will be investment round, certain news will be displayed on the screen and on the basis of your investment made in the shares, the returns will be calculated. The team with maximum returns will be the winner for the event. </p>
                     </div>
@@ -398,27 +294,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
-                    <h4>AD Mad-Presentation</h4>
-                      <p>This Techspardha bring out the creativity inside you and make an outstanding advertisement of your own. Be it hilarious or sensitive, be it just your creativity and Ad sance. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/admad.jpg" alt="AD Mad" /></div>
-                    <div class="cntl-icon cntl-center" style="padding-top:20px;">AD MAD</div>
-                  </div>
-
-                  <div class="cntl-state">
-                    <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
+                     
                     <h4>Ideator-Managerial</h4>
                       <p>“When I was in college, I wanted to be involved in things that would change the world. Now I am.” -Elon Musk Ideator provides aspiring young entrepreneurs a platform to convert their startup idea into a real business venture by pitching it in front of the masterminds of the field i.e. VCs and angel investors.Teams have to submit a business plan of a startup idea on categories like agriculture, security, general consumer, entertainment and gaming, clean energy, health and wellness, social impact, media, analytics, aviation, artificial intelligence, IoT, financial technology, etc. </p>
                     </div>
@@ -429,14 +305,16 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                   <div class="cntl-state">
                     <div class="cntl-content">
-                      <!--<h4>Bootrunner Ltd. was founded!</h4>
-                      <p>In a small office with only 3 computers and an Internet connection we began making websites and printed materials for local businesses.</p>
-                      <p>We had a really good designer onboard. One head full of programming algorithms and maths. A sales guy - who gave calls all day and went to meetings as soon as he got a yes. Little money upfront, but a lot of work behind. </p>
-                    </div>
-                    <div class="cntl-image"><img src="images/history-4.jpg" alt="" /></div>
-                    <div class="cntl-icon cntl-center">2008</div>-->
-                    <h4>Algoholics-coding</h4>
-                      <p>Interested in programming? Stuck in TLE(time limit exceeded)? If yes, then this is the right place for you!!!Here at algoholics, you will get the most exciting problems. Use the existing algorithms or develop you own and fight through the problems. Optimize the code in best way possible. Round-1(Prelims) This round will consist of Multiple –choice questions based on algorithm and analysis of algorithm and general awareness of the field and its fundamentals. Prior knowledge of algos is required. Round-2 (Mains): The qualifying teams will be given a set of problems for algorithm/ pseudo-code to be developed. Try to solve the problems with the best optimized approach and produce the answer. you can also Register at : https://goo.gl/qZquGP Round -1 Timing : 20/01/17 01:30 PM</p>
+                     
+                    <h4>Algoholics</h4>
+                      <p>Interested in programming? Stuck in TLE(time limit exceeded)? If yes, then this is the right place for you!!!Here at algoholics, you will get the most exciting problems. 
+                        Use the existing algorithms or develop you own and fight through the problems. 
+                        Optimize the code in best way possible. Round-1(Prelims) 
+                        This round will consist of Multiple –choice questions based on algorithm and analysis of algorithm 
+                        and general awareness of the field and its fundamentals. Prior knowledge of algos is required. 
+                        Round-2 (Mains): The qualifying teams will be given a set of problems for algorithm/ pseudo-code to be developed.
+                        Try to solve the problems with the best optimized approach and produce the answer. 
+                       </p>
                     </div>
                     <div class="cntl-image"><img src="images/algoholics.jpg" alt="Algoholics" /></div>
                     <div class="cntl-icon cntl-center" style="padding-top:20px;">ALGOHOLICS</div>
@@ -472,8 +350,6 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                       <div class="col-lg-12">
                           <div class="text-center">
 
-                              <!-- <a href=".2016">2016 </a>
-                             <a href=".2015">2015 </a>-->
                               <div class="w3-center">
                                   <div class="w3-section">
                                       <button class="button button1 active wow slideInLeft" data-wow-duration="800ms" onclick="plusDivs(-1)">❮ 2016</button>
@@ -483,7 +359,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                               <div class="spacer-50"></div>
                           </div>
                       </div>
-                      <!-- end .col-lg-12 -->
+                      
 
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2016">
@@ -506,20 +382,13 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>President</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>-->
+                             
                               <!-- end .team-member-contacts -->
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
                       </div>
-                      <!-- end .col-lg-3 -->
+                     
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="800ms">
@@ -538,26 +407,12 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Vice-President</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                            
                           </div>
-                          <!-- end .team-member -->
+                          
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
                       </div>
-                      <!-- end .col-lg-3 -->
-
-
-
-
-
-                      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
+                                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
                               <div class="team-member-contacts">
                                   <ul class="list-inline ">
@@ -574,15 +429,8 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Secretary</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--<div class="team-member-contacts">
-                              <ul class="list-inline text-center">
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                              </ul>
-                            </div>
-                            <!-- end .team-member-contacts -->
+                             
+                           
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -607,15 +455,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Secretary</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                            
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -639,15 +479,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Joint-Secretary</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--<div class="team-member-contacts">
-                              <ul class="list-inline text-center">
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                              </ul>
-                            </div>
-                            <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -671,15 +503,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Girls Representative</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -703,15 +527,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--     <div class="team-member-contacts">
-                              <ul class="list-inline text-center">
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                              </ul>
-                            </div>
-                            <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -736,15 +552,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--     <div class="team-member-contacts">
-                                   <ul class="list-inline text-center">
-                                     <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                     <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                     <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                   </ul>
-                                 </div>
-                                 <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -768,15 +576,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -801,15 +601,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                            
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -835,15 +627,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -867,15 +651,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                            
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -899,15 +675,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -930,15 +698,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -962,15 +722,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--   <div class="team-member-contacts">
-                                 <ul class="list-inline text-center">
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                 </ul>
-                               </div>
-                               <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -994,15 +746,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--   <div class="team-member-contacts">
-                                 <ul class="list-inline text-center">
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                 </ul>
-                               </div>
-                               <!-- end .team-member-contacts -->
+                              
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -1026,15 +770,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -1069,10 +805,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="800ms">
                               <div class="team-member-contacts">
-                                  <!--<ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>-->
+                                
                               </div>
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/Harshit.jpg" alt="Harshit" />
@@ -1083,32 +816,16 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>President</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!-- <div class="team-member-contacts">
-                               <ul class="list-inline text-center">
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                 <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                               </ul>
-                             </div>
-                             <!-- end .team-member-contacts -->
+                             
+                            
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
                       </div>
-                      <!-- end .col-lg-3 -->
-
-
-
-
-
-                      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
+                                           <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
                               <div class="team-member-contacts">
-                                  <!--<ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>-->
+                                
                               </div>
 
                               <div class="team-member-pic">
@@ -1120,15 +837,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Vice President</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--   <div class="team-member-contacts">
-                                 <ul class="list-inline text-center">
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                 </ul>
-                               </div>
-                               <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -1139,10 +848,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2016">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
                               <div class="team-member-contacts">
-                                  <!--<ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>-->
+                                 
                               </div>
 
                               <div class="team-member-pic">
@@ -1154,15 +860,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Secretary</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--    <div class="team-member-contacts">
-                                  <ul class="list-inline text-center">
-                                    <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                    <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                  </ul>
-                                </div>
-                                <!-- end .team-member-contacts -->
+                              
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -1171,12 +869,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                             
 
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/Priyasha.jpg" alt="Priyasha" />
@@ -1197,12 +890,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2016">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                             
 
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/aditi.jpg" alt="Aditi" />
@@ -1213,15 +901,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--   <div class="team-member-contacts">
-                                 <ul class="list-inline text-center">
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                   <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                 </ul>
-                               </div>
-                               <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -1230,13 +910,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
-
+                             
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/Aaina.jpg" alt="Aaina" />
                               </div>
@@ -1246,15 +920,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--     <div class="team-member-contacts">
-                                   <ul class="list-inline text-center">
-                                     <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                     <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                     <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                   </ul>
-                                 </div>
-                                 <!-- end .team-member-contacts -->
+                             
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -1263,12 +929,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2016">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                            
 
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/dps.jpg" alt="Dev Pratap" />
@@ -1289,12 +950,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2015">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                              
 
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/gaurav.jpg" alt="Gaurav" />
@@ -1317,12 +973,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding 2016">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="800ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                             
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/Harleen.jpg" alt="Harleen" />
                               </div>
@@ -1342,12 +993,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="1000ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                             
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/Rishabh.jpg" alt="Rishabh" />
                               </div>
@@ -1357,15 +1003,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                                   <em>Member</em>
 
                               </div>
-                              <!-- end .team-member-description -->
-                              <!--  <div class="team-member-contacts">
-                                <ul class="list-inline text-center">
-                                  <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                  <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-                                  <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
-                                </ul>
-                              </div>
-                              <!-- end .team-member-contacts -->
+                              
                           </div>
                           <!-- end .team-member -->
                           <div class="spacer-40 hidden-sm hidden-md hidden-lg"></div>
@@ -1398,12 +1036,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="600ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                             
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/sneha.jpg" alt="Sneha" />
                               </div>
@@ -1423,12 +1056,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 no-padding">
                           <div class="panel team-member text-center wow fadeInDownBig" data-wow-duration="800ms">
-                              <!--<div class="team-member-contacts">
-                                  <ul class="list-inline ">
-                                      <li><a href="#team" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-
-                                  </ul>
-                              </div>-->
+                             
                               <div class="team-member-pic">
                                   <img class="img-circle" src="images/sushmita2.jpg" alt="Sushmita" />
                               </div>
@@ -1558,8 +1186,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                       </div>
                       <!-- end .testimonial -->
                   </div>
-                  <!-- end #owl-example .owl-carousel .owl-testimonials -->
-              </div>
+                    </div>
 
 
               <!--end patron-->
@@ -1577,7 +1204,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
 
  error_reporting( ~E_DEPRECATED & ~E_NOTICE );
-  // but I strongly suggest you to use PDO or MySQLi.
+  
   
   define('DBHOST', 'localhost');
   define('DBUSER', 'root');
@@ -1599,7 +1226,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
   if ( isset($_POST['submit']) ) {
     
-   // echo "kamal";
+   
     
     // clean user inputs to prevent sql injections
     $contact_name = trim($_POST['contact_name']);
@@ -1757,9 +1384,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
                   </div>
                   <!-- end .text-center -->
 
-            <!--       <div class="form-group">
-              <button type="submit" class="btn btn-block btn-primary" name="submit" >Submit</button>
-            </div>  -->
+            
                 </form>
               </div> 
               <!-- end .row -->
@@ -1779,90 +1404,6 @@ that lits every light to enlighten the nation with young aspiring minds</p>
         
     </div>
     <!-- end .contact-section -->
-
-
-
-  <!--  <form method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" autocomplete="off">
-    
-      <div class="col-md-12">
-        
-          <div class="form-group">
-              <h2 class="">contact</h2>
-            </div>
-        
-          <div class="form-group">
-              <hr />
-            </div>
-            
-            <?php
-      if ( isset($errMSG) ) {
-        
-        ?>
-        <div class="form-group">
-              <div class="alert alert-<?php echo ($errTyp=="success") ? "success" : $errTyp; ?>">
-        <span class="glyphicon glyphicon-info-sign"></span> <?php echo $errMSG; ?>
-                </div>
-              </div>
-                <?php
-      }
-      ?>
-            
-            <div class="form-group"> 
-              <div class="input-group">
-                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-              <input type="text" name="contact_name" class="form-control" placeholder="Enter Name" maxlength="30"  />
-                </div>
-                <span class="text-danger"><?php echo $contact_nameError; ?></span>
-            </div>
-            
-            <div class="form-group">
-              <div class="input-group">
-                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-              <input type="text" name="contact_phone" class="form-control" placeholder="Enter mobile" maxlength="12" />
-                </div>
-                <span class="text-danger"><?php echo $contact_phoneError; ?></span>
-            </div>
-            
-            <div class="form-group">
-              <div class="input-group">
-                <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
-              <input type="email" name="contact_email" class="form-control" placeholder="Enter Your Email" maxlength="255"  />
-                </div>
-                <span class="text-danger"><?php echo $contact_emailError; ?></span>
-            </div>
-            
-            <div class="form-group">
-              <div class="input-group">
-                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-              <input type="text" name="contact_message" class="form-control" placeholder="Enter message" maxlength="30" />
-                </div>
-                <span class="text-danger"><?php echo $contact_messageError; ?></span>
-            </div>
-            
-            <div class="form-group">
-              <hr />
-            </div>
-            
-            <div class="form-group">
-              <button type="submit" class="btn btn-block btn-primary" name="submit">Submit</button>
-            </div>
-            
-            <div class="form-group">
-              <hr />
-            </div>
-            
-            
-        
-        </div>
-   
-    </form> -->
-
-    
-
-
-   
-  
-    <!-- UX enhancement with vertical fixed navigation on the right -->
     <nav id="cd-vertical-nav" class="hidden-xs hidden-sm hidden-md">
       <ul class="list-unstyled">
         <li>
@@ -1913,163 +1454,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
         </li>
       </ul>
     </nav>
-    <!-- end UX enhancement with vertical fixed navigation on the right -->
-
-    <!-- Modal webdesign -->
-    <!--<div class="theme-services-modal service-modal-1">
-      <div class="modal fade" id="webdesign" tabindex="-1" role="dialog" aria-labelledby="webdesignModalLabel" >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header bg-1">
-              <h4 class="modal-title text-center" id="webdesignModalLabel">Web Design</h4>
-            </div>
-            <div class="modal-body">
-              <div class="text-center">
-                <span class="fa fa-paint-brush"></span>
-              </div>
-              <p>Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; interface design; authoring, including standardized code and proprietary software; user experience design; and search engine optimization. Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. 
-              </p>
-              
-            </div>
-            <div class="modal-footer">
-              <div class="text-center">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>-->
-    
-    <!-- Modal mobiledesign -->
-    <!--<div class="theme-services-modal service-modal-2">
-      <div class="modal fade" id="mobiledesign" tabindex="-1" role="dialog" aria-labelledby="mobiledesignModalLabel" >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header bg-2">
-              <h4 class="modal-title text-center" id="mobiledesignModalLabel">Mobile Design</h4>
-            </div>
-            <div class="modal-body">
-              <div class="text-center">
-                <span class="fa fa-android"></span>
-              </div>
-              <p>As part of the development process, Mobile User Interface (UI) Design is also essential in the creation of mobile apps. The user is often the focus of interaction with their device, and the interface entails components of both hardware and software. User input allows for users to manipulate a system, and a device's output allows the system to indicate the effects of the users' manipulation. The UI of mobile apps should: consider users' limited attention, minimize keystrokes, and be task-oriented with a minimum set of functions.
-              </p>
-              
-            </div>
-            <div class="modal-footer">
-              <div class="text-center">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>-->
-    
-    <!-- Modal frontenddevelopment -->
- <!--   <div class="theme-services-modal service-modal-3">
-      <div class="modal fade" id="frontend-development" tabindex="-1" role="dialog" aria-labelledby="frontend-developmentModalLabel" >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header bg-3">
-              <h4 class="modal-title text-center" id="frontend-developmentModalLabel">Frontend Development</h4>
-            </div>
-            <div class="modal-body">
-              <div class="text-center">
-                <span class="fa fa-code"></span>
-              </div>
-              <p>Front end development, also known as client side development is the practice of producing HTML, CSS and JavaScript for a website or web application so that a user can see and interact with them directly. The challenges associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing in order to adapt.
-              </p>
-              
-            </div>
-            <div class="modal-footer">
-              <div class="text-center">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>-->
-    
-    <!-- Modal backenddevelopment -->
-    <!--<div class="theme-services-modal service-modal-4">
-      <div class="modal fade" id="backend-development" tabindex="-1" role="dialog" aria-labelledby="backend-developmentModalLabel" >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header bg-4">
-              <h4 class="modal-title text-center" id="backend-developmentModalLabel">Backend Development</h4>
-            </div>
-            <div class="modal-body">
-              <div class="text-center">
-                <span class="fa fa-database"></span>
-              </div>
-              <p>In order to make the server, application, and database communicate with each other, back-end developers use server-side languages like PHP, Ruby, Python, Java, and .Net to build an application, and tools like MySQL, Oracle, and SQL Server to find, save, or change data and serve it back to the user in front-end code.
-              </p>
-              
-            </div>
-            <div class="modal-footer">
-              <div class="text-center">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>-->
-    
-    <!-- Modal videoproduction -->
-    <!--<div class="theme-services-modal service-modal-5">
-      <div class="modal fade" id="video-production" tabindex="-1" role="dialog" aria-labelledby="video-productionModalLabel" >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header bg-5">
-              <h4 class="modal-title text-center" id="video-productionModalLabel">Video Production</h4>
-            </div>
-            <div class="modal-body">
-              <div class="text-center">
-                <span class="fa fa-youtube-play"></span>
-              </div>
-              <p>Video production is the process of creating video by capturing moving images (videography), and creating combinations and reductions of parts of this video in live production and post-production (video editing). In most cases the captured video will be recorded on electronic media such as videotape, hard disk, or solid-state storage, but it might only be distributed electronically without being recorded. It is the equivalent of filmmaking, but with images recorded electronically instead of film stock. 
-              </p>
-              
-            </div>
-            <div class="modal-footer">
-              <div class="text-center">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>-->
-    
-    <!-- Modal socialmedia -->
-    <!--<div class="theme-services-modal service-modal-6">
-      <div class="modal fade" id="social-media" tabindex="-1" role="dialog" aria-labelledby="social-mediaModalLabel" >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header bg-6">
-              <h4 class="modal-title text-center" id="social-mediaModalLabel">Social Media</h4>
-            </div>
-            <div class="modal-body">
-              <div class="text-center">
-                <span class="fa fa-twitter"></span>
-              </div>
-              <p>Social media are computer-mediated tools that allow people or companies to create, share, or exchange information, career interests, ideas, and pictures/videos in virtual communities and networks. Social media is defined as "a group of Internet-based applications that build on the ideological and technological foundations of Web 2.0, and that allow the creation and exchange of user-generated content." Furthermore, social media depend on mobile and web-based technologies to create highly interactive platforms through which individuals and communities share, co-create, discuss, and modify user-generated content.
-              </p>
-              
-            </div>
-            <div class="modal-footer">
-              <div class="text-center">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>-->
+   
     
     <!-- Modal success on submit -->
     <div class="theme-submit-success-modal">
@@ -2093,27 +1478,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
       </div>
     </div>
     
-    <!-- Modal success on submit to our newsletter -->
-    <!--<div class="theme-submit-success-modal">
-      <div class="modal fade" id="newsletterSuccessForm" tabindex="-1" role="dialog" aria-labelledby="newsletterFormModalLabel">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-body">
-              <div class="text-center">
-                <span class="fa fa-envelope-o"></span>
-              </div>
-              <h4 class="text-center" id="newsletterFormModalLabel">Subscription complete!</h4>
-              <p class="text-center">Your address is secured with us. We'll keep you up to date with latest news from our blog. </p>
-            </div>
-            <div class="modal-footer">
-              <div class="text-center">
-                <button type="button" class="btn btn-default" data-dismiss="modal">OK</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>-->
+   
 
 
 
@@ -2125,33 +1490,11 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     					<h4><span>Our commitment</span></h4>
                         <p>We strive for excelence and for bringing reliable products to life, by always testing cross browser: </p>
     					<div class="row">
-    						<!--<div class="col-lg-6">
-    							<ul class="footer-nav-links list-unstyled">
-    								<li><span class="fa fa-angle-right"></span><a href="#home">Home</a></li>
-    								<li><span class="fa fa-angle-right"></span><a href="#services">About</a></li>
-    								<li><span class="fa fa-angle-right"></span><a href="#history">Altius 16</a></li>
-    								<li><span class="fa fa-angle-right"></span><a href="#testimonials">Patron Board</a></li>
-    							</ul>
-    						</div>-->
-    						<!-- end .col-lg-6 
-    
-    						<div class="col-lg-6">
-    							<ul class="footer-nav-links list-unstyled">
-    								<li><span class="fa fa-angle-right"></span><a href="#team">Our Team</a></li>
-    								<li><span class="fa fa-angle-right"></span><a href="#contact">Contact</a></li>
-    							</ul>
-    						</div>
-    						<!-- end .col-lg-6 -->
+    					
 
                 <ul class="social-media-links list-inline wow bounceInDown" data-wow-duration="400ms" style="border: 2px solid #656565; border-radius: 50%; color: #656565; text-align: center;  width: 55px;  height: 55px; margin-left: 25px; margin-top: 100px;">
                 <li class="wow bounceInDown" data-wow-duration="400ms" ><a class="facebook-link" title="Facebook" target="_blank" alt="facebook" href="https://www.facebook.com/Mexperts/"><span class="fa fa-facebook" style=" font-size: 40px;  padding-top: 10px;"></span></a></li>
-                <!--<li class="wow bounceInDown" data-wow-duration="600ms"><a class="twitter-link" data-toggle="tooltip" data-placement="top" title="Twitter" href="#"><span class="fa fa-twitter"></span></a></li>
-                <li class="wow bounceInDown" data-wow-duration="800ms"><a class="linkedin-link" data-toggle="tooltip" data-placement="top" title="Linkedin" href="#"><span class="fa fa-linkedin"></span></a></li>
-                <li class="wow bounceInDown" data-wow-duration="1000ms"><a class="dribbble-link" data-toggle="tooltip" data-placement="top" title="Dribbble" href="#"><span class="fa fa-dribbble"></span></a></li>
-                <li class="wow bounceInDown" data-wow-duration="1000ms"><a class="google-plus-link" data-toggle="tooltip" data-placement="top" title="Google+" href="#"><span class="fa fa-google-plus"></span></a></li>
-                <li class="wow bounceInDown" data-wow-duration="800ms"><a class="pinterest-link" data-toggle="tooltip" data-placement="top" title="Pinterset" href="#"><span class="fa fa-pinterest-p"></span></a></li>
-                <li class="wow bounceInDown" data-wow-duration="600ms"><a class="instagram-link" data-toggle="tooltip" data-placement="top" title="Instagram" href="#"><span class="fa fa-instagram"></span></a></li>
-                <li class="wow bounceInDown" data-wow-duration="400ms"><a class="youtube-link" data-toggle="tooltip" data-placement="top" title="Youtube" href="#"><span class="fa fa-youtube"></span></a></li>-->
+               
               </ul>
 
     					</div>
@@ -2164,38 +1507,9 @@ that lits every light to enlighten the nation with young aspiring minds</p>
     				<!-- end .col-lg-4 -->
     
     				<div class="col-lg-4">
-    					<!--<h4><span>Our commitment</span></h4>
-    					<p>We strive for excelence and for bringing reliable products to life, by always testing cross browser: </p>-->
     					
-    					<!--<ul class="browsers-list list-inline text-left">
-    						<li><img src="images/chrome-icon.png" alt="" /></li>
-    						<li><img src="images/firefox-icon.png" alt="" /></li>
-    						<li><img src="images/opera-icon.png" alt="" /></li>
-    						<li><img src="images/safari-icon.png" alt="" /></li>
-    						<li><img src="images/ie-icon.png" alt="" /></li>
-    					</ul>-->
     				</div>
-    
-    				<!--<div class="col-lg-4">
-    					<h4><span>Newsletter subscription</span></h4>
-    					<p>Let's keep in touch via e-mail: </p>
-    
-    					<form id="newsletter">
-    						<div class="form-group has-feedback">
-    	                    	<input id="newsletter-mail" class="form-control" type="email" name="newsletter_mail" value="" placeholder="..." aria-label="sender name" />
-    	                    	<span id="newsletter-mail1" class="glyphicon form-control-feedback"></span>
-    	                	</div>
-    	                  	<!-- end .form-group -->
-    
-    	                  	<!--<div class="form-group">
-    	                    	<button id="submitNewsletter" type="submit" class="btn btn-block">Subscribe</button>
-    	                  	</div>
-    	                  	<!-- end .form-group -->
-    					<!--</form>
-    
-    					<p><span class="fa fa-lock"></span>Your data is secure with us. No spam, we promise!</p>
-    				</div>-->
-            <div class="col-lg-4">
+                <div class="col-lg-4">
             <div class="col-sm-6">
              <h4><span>Contacts</span></h4>
             <!--<div><img height="50px" src="images/phone1.png" /></div>-->
@@ -2206,7 +1520,6 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 
 
 
-<!--<div ><img height="30px" src="images/mail1.png" /></div>-->
 
 <h4 style= "padding-bottom:0px;">Email:</h4>
 
@@ -2215,7 +1528,7 @@ that lits every light to enlighten the nation with young aspiring minds</p>
 <div ><p style="font-size:15px;">techspardha.mexperts@gmail.com</p></div>
 
 
-<!--<div ><a href="https://www.google.co.in/maps/search/NIT+Kurukshetra,+NIT,+Thanesar,+Haryana/@29.9492574,76.8136831,17z/data=!3m1!4b1" target="_blank"><img height="30px" src="images/address1.png" /></a></div>-->
+
 
 <h4 style= "padding-bottom:0px;">Address:</h4>
 
@@ -2311,7 +1624,6 @@ function showDivs(n) {
     
   </body>
 
-<!-- Mirrored from www.creativeinstruct.com/bootrunner/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Feb 2017 06:59:46 GMT -->
 </html>
 
 
